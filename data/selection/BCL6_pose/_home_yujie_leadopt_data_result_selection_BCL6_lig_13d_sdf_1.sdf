@@ -1,0 +1,254 @@
+/home/yujie/leadopt/data/result/selection/BCL6/lig_13d.sdf:1
+                    3D
+ Schrodinger Suite 2021-2.
+ 51 55  0  0  1  0            999 V2000
+  -22.4416   15.0464   17.6639 C   0  0  0  0  0  0
+  -23.2393   14.7261   18.9289 C   0  0  1  0  0  0
+  -23.8822   13.4071   18.9036 N   0  3  0  0  0  0
+  -23.2167   12.1031   19.0641 C   0  0  0  0  0  0
+  -22.3137   11.8612   20.0430 C   0  0  0  0  0  0
+  -21.8804   12.7976   20.9384 O   0  0  0  0  0  0
+  -21.3942   14.0035   20.4107 C   0  0  0  0  0  0
+  -22.5433   14.9530   20.2359 C   0  0  0  0  0  0
+  -22.4841   16.3294   20.8341 C   0  0  0  0  0  0
+  -23.3819   15.2817   21.4418 C   0  0  0  0  0  0
+  -21.7413   10.5386   20.2466 C   0  0  0  0  0  0
+  -20.7839   10.3735   20.9977 O   0  0  0  0  0  0
+  -22.3187    9.5123   19.5733 N   0  0  0  0  0  0
+  -21.8401    8.1500   19.8257 C   0  0  0  0  0  0
+  -23.3319    9.6991   18.5844 C   0  0  0  0  0  0
+  -23.8552    8.6131   17.8540 C   0  0  0  0  0  0
+  -24.7917    8.8172   16.8352 C   0  0  0  0  0  0
+  -25.2221   10.1110   16.5177 C   0  0  0  0  0  0
+  -24.7506   11.1907   17.2793 C   0  0  0  0  0  0
+  -23.7821   10.9965   18.2900 C   0  0  0  0  0  0
+  -26.0903   10.3505   15.4466 N   0  0  0  0  0  0
+  -26.0103    9.8527   14.1327 C   0  0  0  0  0  0
+  -24.8752    9.1374   13.7099 C   0  0  0  0  0  0
+  -24.8027    8.6816   12.3913 C   0  0  0  0  0  0
+  -25.7649    8.9055   11.4870 N   0  0  0  0  0  0
+  -26.8530    9.5992   11.8657 C   0  0  0  0  0  0
+  -27.0249   10.0985   13.1764 C   0  0  0  0  0  0
+  -28.2304   10.8384   13.5038 C   0  0  0  0  0  0
+  -29.1888   11.4320   13.7525 N   0  0  0  0  0  0
+  -28.0475    9.8460   10.6408 Cl  0  0  0  0  0  0
+  -21.9939   16.0388   17.7252 H   0  0  0  0  0  0
+  -21.6419   14.3285   17.4824 H   0  0  0  0  0  0
+  -23.0879   15.0354   16.7852 H   0  0  0  0  0  0
+  -24.0702   15.4328   18.9077 H   0  0  0  0  0  0
+  -24.4080   13.3815   18.0449 H   0  0  0  0  0  0
+  -20.6956   14.4148   21.1399 H   0  0  0  0  0  0
+  -20.8224   13.8581   19.4939 H   0  0  0  0  0  0
+  -21.5925   16.6083   21.3920 H   0  0  0  0  0  0
+  -22.9617   17.1445   20.2934 H   0  0  0  0  0  0
+  -24.4547   15.4134   21.3155 H   0  0  0  0  0  0
+  -23.0812   14.8561   22.3972 H   0  0  0  0  0  0
+  -21.0982    8.0520   20.6176 H   0  0  0  0  0  0
+  -22.6717    7.5114   20.1240 H   0  0  0  0  0  0
+  -21.3884    7.7335   18.9246 H   0  0  0  0  0  0
+  -23.5430    7.5967   18.0375 H   0  0  0  0  0  0
+  -25.1630    7.9674   16.2812 H   0  0  0  0  0  0
+  -25.1043   12.1767   17.0203 H   0  0  0  0  0  0
+  -26.7573   11.0921   15.5870 H   0  0  0  0  0  0
+  -24.0413    8.9428   14.3645 H   0  0  0  0  0  0
+  -23.9384    8.1323   12.0490 H   0  0  0  0  0  0
+  -24.5453   13.4608   19.6555 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 31  1  0  0  0
+  1 32  1  0  0  0
+  1 33  1  0  0  0
+  2  8  1  0  0  0
+  2  3  1  0  0  0
+  2 34  1  0  0  0
+  3  4  1  0  0  0
+  3 35  1  0  0  0
+  3 51  1  0  0  0
+  4 20  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5 11  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  7 36  1  0  0  0
+  7 37  1  0  0  0
+  8 10  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 38  1  0  0  0
+  9 39  1  0  0  0
+ 10 40  1  0  0  0
+ 10 41  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  1  0  0  0
+ 14 42  1  0  0  0
+ 14 43  1  0  0  0
+ 14 44  1  0  0  0
+ 15 20  2  0  0  0
+ 15 16  1  0  0  0
+ 16 17  2  0  0  0
+ 16 45  1  0  0  0
+ 17 18  1  0  0  0
+ 17 46  1  0  0  0
+ 18 19  2  0  0  0
+ 18 21  1  0  0  0
+ 19 20  1  0  0  0
+ 19 47  1  0  0  0
+ 21 22  1  0  0  0
+ 21 48  1  0  0  0
+ 22 27  1  0  0  0
+ 22 23  2  0  0  0
+ 23 24  1  0  0  0
+ 23 49  1  0  0  0
+ 24 25  2  0  0  0
+ 24 50  1  0  0  0
+ 25 26  1  0  0  0
+ 26 27  2  0  0  0
+ 26 30  1  0  0  0
+ 27 28  1  0  0  0
+ 28 29  3  0  0  0
+M  CHG  1   3   1
+M  END
+> <s_m_entry_id>
+400
+
+> <s_m_entry_name>
+BCL6_lig_13d.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\selection\BCL6\original
+
+> <s_m_Source_File>
+BCL6_lig_13d.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIMl0xW0NIMl1DMTJbQ0BASF0oW0NIM10pW05IXWMzYyhPW0NIMl0yKWMoPU8pbihbQ0gzXSljNGMzW2NIXWMoW2NIXVtjSF00KVtOSF1jNVtjSF1bY0hdbmMoQ2wpYzVDI04=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.5148
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.5147
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.5223
+
+> <r_epik_Charging_Adjusted_Penalty>
+1.03701
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+52.9969
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/BCL6/lig_13d.sdf:1-2
+
+> <s_i_glide_gridfile>
+glide-grid_BCL6
+
+> <i_i_glide_lignum>
+19
+
+> <i_i_glide_rotatable_bonds>
+2
+
+> <r_i_docking_score>
+-5.58557483784903
+
+> <r_i_glide_ligand_efficiency>
+-0.186185827928301
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.578522656030859
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.26910346287164
+
+> <r_i_glide_gscore>
+-6.10787483784903
+
+> <r_i_glide_lipo>
+-2.29385671289528
+
+> <r_i_glide_hbond>
+-0.348278067892177
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-0.98857614113774
+
+> <r_i_glide_evdw>
+-33.3243751525879
+
+> <r_i_glide_ecoul>
+-6.88361358642578
+
+> <r_i_glide_erotb>
+0.221596879669431
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+-49.0460296194276
+
+> <r_i_glide_energy>
+-40.2079887390137
+
+> <r_i_glide_einternal>
+0.700973451137543
+
+> <i_i_glide_confnum>
+7
+
+> <i_i_glide_posenum>
+330
+
+> <r_i_glide_eff_state_penalty>
+0.5223
+
+> <s_m_job_name>
+glide-dock_SP_BCL6_ligand1
+
+> <r_glide_shape_similarity>
+0.937722742557526
+
+> <s_m_subgroup_title>
+glide-dock_SP_BCL6_ligand1_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_BCL6_ligand1_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

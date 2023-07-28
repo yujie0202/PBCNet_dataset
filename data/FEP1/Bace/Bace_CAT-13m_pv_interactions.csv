@@ -1,0 +1,16 @@
+Type,Ligand,Title,LigResidue,LigAtom,RecResidue,RecAtom,Dist
+HAccep nn,1,,A:93(ASP),534( OD1),_:900(UNK),31(    ),1.480
+HAccep cc,1,,A:93(ASP),535( OD2),_:900(UNK),32(    ),1.732
+HDonor nn,1,,A:137(TRP),1246( HE1),_:900(UNK),9(    ),2.676
+HAccep nn,1,,A:289(ASP),3584( OD1),_:900(UNK),44(    ),1.632
+Salt,1,,A:93(ASP),535( OD2),_:900(UNK),5(    ),2.739
+HPhob,1,,A:91(LEU),500( CD2),_:900(UNK),17(    ),4.027
+HPhob,1,,A:91(LEU),500( CD2),_:900(UNK),18(    ),4.053
+HPhob,1,,A:91(LEU),500( CD2),_:900(UNK),24(    ),3.870
+HPhob,1,,A:169(PHE),1703( CD1),_:900(UNK),14(    ),3.931
+HPhob,1,,A:169(PHE),1703( CD1),_:900(UNK),15(    ),3.503
+HPhob,1,,A:169(PHE),1705( CE1),_:900(UNK),14(    ),3.793
+HPhob,1,,A:169(PHE),1705( CE1),_:900(UNK),15(    ),3.596
+HPhob,1,,A:171(ILE),1744( CD1),_:900(UNK),19(    ),3.168
+HPhob,1,,A:171(ILE),1744( CD1),_:900(UNK),20(    ),2.971
+HPhob,1,,A:176(TRP),1815( CH2),_:900(UNK),16(    ),3.866

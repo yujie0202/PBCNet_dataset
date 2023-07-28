@@ -1,0 +1,118 @@
+Epoch 0  Batch 1000  Loss 14.47690705728531
+Epoch 0  Batch 1000  Learning rate 5e-07
+Epoch 0  Batch 2000  Loss 5.073517019510269
+Epoch 0  Batch 2000  Learning rate 5e-07
+Epoch 0  Batch 3000  Loss 4.474715713739395
+Epoch 0  Batch 3000  Learning rate 5e-07
+Epoch 0  Batch 4000  Loss 4.211836369276047
+Epoch 0  Batch 4000  Learning rate 5e-07
+Epoch 0  Batch 5000  Loss 4.066694227933883
+Epoch 0  Batch 5000  Learning rate 5e-07
+Epoch 0  Batch 6000  Loss 3.992333890914917
+Epoch 0  Batch 6000  Learning rate 5e-07
+Epoch 0  Batch 7000  Loss 3.913697727918625
+Epoch 0  Batch 7000  Learning rate 5e-07
+Epoch 0  Batch 8000  Loss 3.908783642292023
+Epoch 0  Batch 8000  Learning rate 5e-07
+Epoch 0  Batch 9000  Loss 3.849646238088608
+Epoch 0  Batch 9000  Learning rate 5e-07
+Epoch 0  Batch 10000  Loss 3.85293767786026
+Epoch 0  Batch 10000  Learning rate 5e-07
+Epoch 1  Batch 11000  Loss 3.8288113059997557
+Epoch 1  Batch 11000  Learning rate 5e-07
+Epoch 1  Batch 12000  Loss 3.819782809972763
+Epoch 1  Batch 12000  Learning rate 5e-07
+Epoch 1  Batch 13000  Loss 3.796936354637146
+Epoch 1  Batch 13000  Learning rate 5e-07
+Epoch 1  Batch 14000  Loss 3.7367800278663634
+Epoch 1  Batch 14000  Learning rate 5e-07
+Epoch 1  Batch 15000  Loss 3.744152762889862
+Epoch 1  Batch 15000  Learning rate 5e-07
+Epoch 1  Batch 16000  Loss 3.729456305742264
+Epoch 1  Batch 16000  Learning rate 5e-07
+Epoch 1  Batch 17000  Loss 3.698040452003479
+Epoch 1  Batch 17000  Learning rate 5e-07
+Epoch 1  Batch 18000  Loss 3.7095809938907625
+Epoch 1  Batch 18000  Learning rate 5e-07
+Epoch 1  Batch 19000  Loss 3.685554227590561
+Epoch 1  Batch 19000  Learning rate 5e-07
+Epoch 1  Batch 20000  Loss 3.6609108629226683
+Epoch 1  Batch 20000  Learning rate 5e-07
+Epoch 2  Batch 21000  Loss 3.6817995343208314
+Epoch 2  Batch 21000  Learning rate 5e-07
+Epoch 2  Batch 22000  Loss 3.649514743089676
+Epoch 2  Batch 22000  Learning rate 5e-07
+Epoch 2  Batch 23000  Loss 3.642739945411682
+Epoch 2  Batch 23000  Learning rate 5e-07
+Epoch 2  Batch 24000  Loss 3.6352226560115812
+Epoch 2  Batch 24000  Learning rate 5e-07
+Epoch 2  Batch 25000  Loss 3.591147719621658
+Epoch 2  Batch 25000  Learning rate 5e-07
+Epoch 2  Batch 26000  Loss 3.5895778126716613
+Epoch 2  Batch 26000  Learning rate 5e-07
+Epoch 2  Batch 27000  Loss 3.6076615023612977
+Epoch 2  Batch 27000  Learning rate 5e-07
+Epoch 2  Batch 28000  Loss 3.58558566236496
+Epoch 2  Batch 28000  Learning rate 5e-07
+Epoch 2  Batch 29000  Loss 3.5564452213048936
+Epoch 2  Batch 29000  Learning rate 5e-07
+Epoch 2  Batch 30000  Loss 3.541791254758835
+Epoch 2  Batch 30000  Learning rate 5e-07
+Epoch 3  Batch 31000  Loss 3.5541046191453933
+Epoch 3  Batch 31000  Learning rate 5e-07
+Epoch 3  Batch 32000  Loss 3.536183691263199
+Epoch 3  Batch 32000  Learning rate 5e-07
+Epoch 3  Batch 33000  Loss 3.514674185037613
+Epoch 3  Batch 33000  Learning rate 5e-07
+Epoch 3  Batch 34000  Loss 3.509286501288414
+Epoch 3  Batch 34000  Learning rate 5e-07
+Epoch 3  Batch 35000  Loss 3.4772621581554413
+Epoch 3  Batch 35000  Learning rate 5e-07
+Epoch 3  Batch 36000  Loss 3.4805322551727294
+Epoch 3  Batch 36000  Learning rate 5e-07
+Epoch 3  Batch 37000  Loss 3.4745150237083435
+Epoch 3  Batch 37000  Learning rate 5e-07
+Epoch 3  Batch 38000  Loss 3.45269779920578
+Epoch 3  Batch 38000  Learning rate 5e-07
+Epoch 3  Batch 39000  Loss 3.44902619600296
+Epoch 3  Batch 39000  Learning rate 5e-07
+Epoch 3  Batch 40000  Loss 3.449612753868103
+Epoch 3  Batch 40000  Learning rate 5e-07
+Epoch 4  Batch 41000  Loss 3.4151813979148864
+Epoch 4  Batch 41000  Learning rate 5e-07
+Epoch 4  Batch 42000  Loss 3.4505774087905885
+Epoch 4  Batch 42000  Learning rate 5e-07
+Epoch 4  Batch 43000  Loss 3.430148923397064
+Epoch 4  Batch 43000  Learning rate 5e-07
+Epoch 4  Batch 44000  Loss 3.427150480270386
+Epoch 4  Batch 44000  Learning rate 5e-07
+Epoch 4  Batch 45000  Loss 3.392420627117157
+Epoch 4  Batch 45000  Learning rate 5e-07
+Epoch 4  Batch 46000  Loss 3.3978079693317413
+Epoch 4  Batch 46000  Learning rate 5e-07
+Epoch 4  Batch 47000  Loss 3.3921089484691618
+Epoch 4  Batch 47000  Learning rate 5e-07
+  
+Epoch 4_47500
+Training time 3211.7871646881104
+Training Set mae 1.0390758629989625
+Training Set rmse 1.478639955813112
+cmet,RMSE:1.878469199422062,spearman:0.7612027129138003,spearman_var:0.0007940404634141715,spearmans_min:0.7071638955277224,spearmans_max:0.8012201771988973,                                    pearson:0.704918517960972, pearsons_var:0.005462364526764667,pearson_min:0.6032558978943925,pearsons_max:0.8113939949464885,kendall:0.6073626804945638,kendall_var:0.000670424047235642,                                    kendall_min:0.5568101775342201,kendalls_max:0.6374011242825941
+cdk8,RMSE:1.6078887435405083,spearman:0.6337311955125675,spearman_var:0.0024128458029737594,spearmans_min:0.5580318032367534,spearmans_max:0.707755822472545,                                    pearson:0.5538436360274916, pearsons_var:0.0007929997873304274,pearson_min:0.49559582151384757,pearsons_max:0.5841528619927305,kendall:0.48035726657366296,kendall_var:0.001867357788410421,                                    kendall_min:0.42079296551852874,kendalls_max:0.5591358582917437
+syk,RMSE:1.0760488569275684,spearman:0.48217508232093487,spearman_var:0.009563574773767266,spearmans_min:0.2918663688428748,spearmans_max:0.5848604512577096,                                    pearson:0.46871350750772783, pearsons_var:0.007967722735393904,pearson_min:0.296579280026561,pearsons_max:0.5573365889036613,kendall:0.33495837887540114,kendall_var:0.005477482572727721,                                    kendall_min:0.19491569169220055,kendalls_max:0.41525516925729683
+shp2,RMSE:1.5677077046378756,spearman:0.5553428017564219,spearman_var:0.0014667286354016857,spearmans_min:0.46914003079232247,spearmans_max:0.5963412636310571,                                    pearson:0.399077976785962, pearsons_var:0.00025613758138977755,pearson_min:0.3625548215952739,pearsons_max:0.4238018403285603,kendall:0.3648694624059285,kendall_var:0.0004847103513770182,                                    kendall_min:0.32049344670791013,kendalls_max:0.394453472871274
+eg5,RMSE:1.1090978268362723,spearman:0.5807872845492282,spearman_var:0.00031010728900872424,spearmans_min:0.5421412217264623,spearmans_max:0.5983287598730369,                                    pearson:0.6397164581224732, pearsons_var:0.0019597140585326145,pearson_min:0.5174100791638453,pearsons_max:0.6851407060920609,kendall:0.426848003218232,kendall_var:0.00021394064872325746,                                    kendall_min:0.3968184954541353,kendalls_max:0.44508020436071927
+hif2a,RMSE:1.5729374505475853,spearman:0.30199832761469125,spearman_var:0.0012294968479184998,spearmans_min:0.24871308864302819,spearmans_max:0.3613960069004627,                                    pearson:0.18500345973463533, pearsons_var:0.0019970281987750148,pearson_min:0.11411726440347862,pearsons_max:0.2521845889467277,kendall:0.19031202540996722,kendall_var:0.0006589673542610682,                                    kendall_min:0.1541177138289305,kendalls_max:0.23117657074339576
+pfkfb3,RMSE:1.3992882021880673,spearman:0.4680487804878049,spearman_var:0.002166504510910313,spearmans_min:0.3973733583489681,spearmans_max:0.524953095684803,                                    pearson:0.4333282930509961, pearsons_var:0.003049613886345636,pearson_min:0.34745529198073893,pearsons_max:0.5068569461186085,kendall:0.3138461538461539,kendall_var:0.0013388560157790927,                                    kendall_min:0.25641025641025644,kendalls_max:0.3666666666666667
+tnks2,RMSE:1.7110724807482895,spearman:0.31934056241389425,spearman_var:0.0007504963230154074,spearmans_min:0.2518699464545533,spearmans_max:0.3584185662274492,                                    pearson:0.3571848879611088, pearsons_var:0.0003146635562673465,pearson_min:0.3099634033061409,pearsons_max:0.37305464315714665,kendall:0.22368068408570382,kendall_var:0.00043500203500203554,                                    kendall_min:0.17118419700436516,kendalls_max:0.2510701556064023
+FEP,RMSE:1.4903138081060285,spearman:0.5128283434461679,spearman_var:0.0023367243308012285,spearmans_min:0.4332874641965856,spearmans_max:0.5666592679057451,                                    pearson:0.46772334214392086, pearsons_var:0.0027250305413499235,pearson_min:0.38086648248553484,pearsons_max:0.524240271310748,kendall:0.3677793318637017,                                     kendall_var:0.0013933426016895319,kendall_min:0.3089428680188183,kendalls_max:0.4125299027600116
+CDK2,RMSE:1.3475553739042316,spearman:0.655,spearman_var:0.0005156574394463673,spearmans_min:0.6088235294117647,spearmans_max:0.6882352941176471,                                    pearson:0.6550636846103096, pearsons_var:0.0007277409007633136,pearson_min:0.6110551802001223,pearsons_max:0.6940999682296282,kendall:0.45166666666666666,kendall_var:0.0006361111111111115,                                    kendall_min:0.41666666666666663,kendalls_max:0.48333333333333334
+PTP1B,RMSE:1.2325415168571858,spearman:0.7140532359853727,spearman_var:0.0011914239238160896,spearmans_min:0.6422570163599293,spearmans_max:0.763979070307959,                                    pearson:0.7477704415265328, pearsons_var:0.0002175608468620938,pearson_min:0.7236126463462035,pearsons_max:0.7735033807283889,kendall:0.574878929428807,kendall_var:0.0010327680734412838,                                    kendall_min:0.5189879224010063,kendalls_max:0.6387543660320077
+Bace,RMSE:0.9148870329112503,spearman:0.5248471681564418,spearman_var:0.0005623306779085674,spearmans_min:0.46925511709941214,spearmans_max:0.5700857308998621,                                    pearson:0.6083191829830462, pearsons_var:0.00028758728708885514,pearson_min:0.5724067666328071,pearsons_max:0.6293239238607862,kendall:0.3757265202330425,kendall_var:0.00039646812637166305,                                    kendall_min:0.3258852471409042,kendalls_max:0.39617422201443253
+Tyk2,RMSE:1.5439228985901503,spearman:0.6094117647058822,spearman_var:0.0015965397923875413,spearmans_min:0.5588235294117647,spearmans_max:0.6941176470588235,                                    pearson:0.6385410597760599, pearsons_var:0.001004787596518616,pearson_min:0.5974248130156985,pearsons_max:0.7104001047286524,kendall:0.4283333333333334,kendall_var:0.0015583333333333347,                                    kendall_min:0.38333333333333336,kendalls_max:0.5166666666666667
+MCL1,RMSE:1.1115874921602418,spearman:0.7343030818276306,spearman_var:5.251800060231593e-05,spearmans_min:0.7230145890839195,spearmans_max:0.7451377658178255,                                    pearson:0.7184566875221796, pearsons_var:3.697861838947516e-05,pearson_min:0.7085815170473079,pearsons_max:0.7270508412825212,kendall:0.544651530997644,kendall_var:2.38507623725829e-05,                                    kendall_min:0.5360468740177496,kendalls_max:0.5523259547905229
+Thrombin,RMSE:0.41520023235637227,spearman:0.8227272727272726,spearman_var:0.0002190082644628093,spearmans_min:0.7909090909090909,spearmans_max:0.8363636363636363,                                    pearson:0.8449523488811874, pearsons_var:8.65861993670919e-05,pearson_min:0.8323363245297618,pearsons_max:0.8576857583404002,kendall:0.6799999999999999,kendall_var:0.00047603305785123997,                                    kendall_min:0.6363636363636364,kendalls_max:0.7090909090909091
+Jnk1,RMSE:1.206231862114101,spearman:0.4730107427126987,spearman_var:0.010291114992869378,spearmans_min:0.20266321302713816,spearmans_max:0.5508282200224781,                                    pearson:0.4109873168479714, pearsons_var:0.007686242226715476,pearson_min:0.20717374269272923,pearsons_max:0.5002490870615736,kendall:0.3331751732322318,kendall_var:0.0039954431533378906,                                    kendall_min:0.1766114815127876,kendalls_max:0.3961825125827398
+p38,RMSE:1.1491205154102955,spearman:0.5573637458730049,spearman_var:0.001420200926202133,spearmans_min:0.47881959291235743,spearmans_max:0.6008566530030828,                                    pearson:0.5625317998496221, pearsons_var:0.0009316076770605932,pearson_min:0.5097531408752721,pearsons_max:0.5940522359013594,kendall:0.39749678488981166,kendall_var:0.0009407123033333013,                                    kendall_min:0.35009879427964447,kendalls_max:0.43986771588980966
+FEP,RMSE:1.1151308655379786,spearman:0.6363396264985379,spearman_var:0.0019810992522119003,spearmans_min:0.5593207097769222,spearmans_max:0.6812005021989143,                                    pearson:0.6483278152496137, pearsons_var:0.0013723864190956893,pearson_min:0.5952930164174878,pearsons_max:0.6857956625166638,kendall:0.47324111734769214,                                     kendall_var:0.0011324649901440509,kendall_min:0.41799924446446607,kendalls_max:0.5165494600500526
+test time 173.975191116333

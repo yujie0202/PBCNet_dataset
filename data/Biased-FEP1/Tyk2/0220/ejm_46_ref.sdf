@@ -1,0 +1,353 @@
+ejm_46
+                    3D
+ Schrodinger Suite 2021-2.
+ 37 39  0  0  1  0            999 V2000
+   -3.5554   21.9752  -30.1546 C   0  0  0  0  0  0
+   -4.0666   20.9238  -30.9695 C   0  0  0  0  0  0
+   -3.3166   19.7278  -31.1048 C   0  0  0  0  0  0
+   -5.1074   25.0644  -31.3289 C   0  0  0  0  0  0
+   -4.4252   23.1008  -29.8081 C   0  0  0  0  0  0
+   -5.7163   24.4336  -32.4595 C   0  0  0  0  0  0
+   -6.5353   25.1374  -33.2838 C   0  0  0  0  0  0
+   -2.3390   21.8281  -29.4247 C   0  0  0  0  0  0
+   -2.1338   19.5622  -30.3395 C   0  0  0  0  0  0
+   -1.6463   20.6054  -29.5057 C   0  0  0  0  0  0
+   -5.6410   21.0048  -31.7107 Cl  0  0  0  0  0  0
+   -4.9220   23.0435  -28.6817 O   0  0  0  0  0  0
+   -4.2878   24.5321  -30.4589 N   0  3  0  0  0  0
+   -6.8096   26.4965  -33.0995 N   0  0  0  0  0  0
+   -6.2196   27.1613  -32.0262 C   0  0  0  0  0  0
+   -5.4213   26.4520  -31.1744 C   0  0  0  0  0  0
+   -6.4809   28.5467  -31.8567 N   0  0  0  0  0  0
+   -5.6488   29.4426  -31.2574 C   0  0  0  0  0  0
+   -4.5322   29.1490  -30.8204 O   0  0  0  0  0  0
+   -6.1429   30.8549  -31.1841 C   0  0  0  0  0  0
+   -5.6707   31.7313  -30.0314 C   0  0  0  0  0  0
+   -5.1305   31.9653  -31.4243 C   0  0  0  0  0  0
+   -1.7044   23.0603  -28.3859 Cl  0  0  0  0  0  0
+   -3.6971   18.9110  -31.7020 H   0  0  0  0  0  0
+   -5.4861   23.4033  -32.6623 H   0  0  0  0  0  0
+   -6.9954   24.7019  -34.1595 H   0  0  0  0  0  0
+   -1.6292   18.6145  -30.3481 H   0  0  0  0  0  0
+   -0.7507   20.4648  -28.9202 H   0  0  0  0  0  0
+   -4.9926   26.9180  -30.3013 H   0  0  0  0  0  0
+   -7.3937   28.8839  -32.1587 H   0  0  0  0  0  0
+   -7.1217   31.0331  -31.6108 H   0  0  0  0  0  0
+   -4.9870   31.3082  -29.2961 H   0  0  0  0  0  0
+   -6.3910   32.4403  -29.6309 H   0  0  0  0  0  0
+   -5.4416   32.8750  -31.9191 H   0  0  0  0  0  0
+   -4.0937   31.6894  -31.6079 H   0  0  0  0  0  0
+   -7.3322   27.0124  -33.7910 H   0  0  0  0  0  0
+   -3.8205   25.1881  -29.8361 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1  8  2  0  0  0
+  2  3  2  0  0  0
+  2 11  1  0  0  0
+  3  9  1  0  0  0
+  3 24  1  0  0  0
+  4  6  1  0  0  0
+  4 13  2  0  0  0
+  4 16  1  0  0  0
+  5 12  2  0  0  0
+  5 13  1  0  0  0
+  6  7  2  0  0  0
+  6 25  1  0  0  0
+  7 14  1  0  0  0
+  7 26  1  0  0  0
+  8 10  1  0  0  0
+  8 23  1  0  0  0
+  9 10  2  0  0  0
+  9 27  1  0  0  0
+ 10 28  1  0  0  0
+ 13 37  1  0  0  0
+ 14 15  1  0  0  0
+ 14 36  1  0  0  0
+ 15 16  2  0  0  0
+ 15 17  1  0  0  0
+ 16 29  1  0  0  0
+ 17 18  1  0  0  0
+ 17 30  1  0  0  0
+ 18 19  2  0  0  0
+ 18 20  1  0  0  0
+ 20 21  1  0  0  0
+ 20 22  1  0  0  0
+ 20 31  1  0  0  0
+ 21 22  1  0  0  0
+ 21 32  1  0  0  0
+ 21 33  1  0  0  0
+ 22 34  1  0  0  0
+ 22 35  1  0  0  0
+M  CHG  1  13   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+749
+
+> <s_m_entry_name>
+Structure587
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\05A\Tyk2
+
+> <s_m_Source_File>
+4gih.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+TYK2 (JH1) IN COMPLEX WITH 2,6-DICHLORO-N-{2-[(CYCLOPROPYLCARBONYL) AMINO]PYRIDIN-4-YL}BENZAMIDE
+
+> <s_pdb_PDB_ID>
+4GIH
+
+> <r_pdb_PDB_CRYST1_a>
+36.165
+
+> <r_pdb_PDB_CRYST1_b>
+74.378
+
+> <r_pdb_PDB_CRYST1_c>
+105.855
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE/TRANSFERASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+08-AUG-12
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.188
+
+> <r_pdb_PDB_Rfree>
+0.217
+
+> <r_pdb_PDB_RESOLUTION>
+2
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+173
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_ppw_entry_id_backup>
+569
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJxdkrFuwzAMRH+F0JykIi06ibNl6lp0LDwYaaa6dgd3CIL8e0Ux7UX1dDhQeuKdr4FDR2/5k6ZpVxT7FZncQu4g938yRUiGFMgGMkEqJGgJtARaAk1BU9AUNAVNQVPQFDQFTQvN9H1935zv6xbDNq2NzBLE5AlVhq3GSM8TYGTomUll7P5N2J6MrD0kqQwcKdeV9BlFeIKCOjx+fjT04Y70OyHI36NntOAPk8oAVgvWymD04pVIZeAdJr2e2kAN2sLIzjpuMvYa7IH5142bJrbbWx4xO7wuw3Kmr/M0jMulK8ORPk7D+PQ5jwd6Xh/n6Z1O8/e0dCQHesk3hL6//QAzpqTk
+
+> <s_m_source_file>
+ligprep_co.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+54117
+
+> <s_epik_input>
+Q2xjMVtjSF1bY0hdW2NIXWMoQ2wpYzFDKD1PKVtOSF1jMltjSF1bY0hdbmMoW2NIXTIpW05IXUMoPU8pW0NIXTNbQ0gyXVtDSDJdMw==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.7974
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.7974
+
+> <r_epik_State_Penalty>
+  2.4722
+
+> <r_epik_Charging_Adjusted_Penalty>
+2.47223804829313
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+60.003859
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+0000-2
+
+> <s_m_job_name>
+align_ligands_0220
+
+> <s_i_glide_gridfile>
+glide-grid_Tky
+
+> <i_i_glide_lignum>
+2
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <r_i_docking_score>
+-3.52664941845108
+
+> <r_i_glide_ligand_efficiency>
+-0.153332583410916
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.436057470441889
+
+> <r_i_glide_ligand_efficiency_ln>
+-0.852775807270406
+
+> <r_i_glide_gscore>
+-5.99884941845108
+
+> <r_i_glide_lipo>
+-3.31582869960361
+
+> <r_i_glide_hbond>
+-0.314087675192325
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-1.44774657878815
+
+> <r_i_glide_evdw>
+-31.184154510498
+
+> <r_i_glide_ecoul>
+0.1306342035532
+
+> <r_i_glide_erotb>
+0.618426130124936
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+-22.7633778819716
+
+> <r_i_glide_energy>
+-31.0535203069448
+
+> <r_i_glide_einternal>
+6.92012691497803
+
+> <i_i_glide_confnum>
+5
+
+> <i_i_glide_posenum>
+193
+
+> <r_i_glide_eff_state_penalty>
+2.4722
+
+> <r_glide_shape_similarity>
+0.77214390039444
+
+> <i_phase_Input_Structure_Number>
+16
+
+> <i_phase_Structure_Number>
+16
+
+> <r_phase_Similarity_to_Reference>
+1
+
+> <i_phase_Reference_Structure>
+16
+
+> <s_phase_Alignment_Method>
+
+
+> <s_phase_Alignment_Reason>
+
+
+> <s_phase_Core_SMARTS>
+
+
+> <r_m_RMSD_582>
+0.146307743411202
+
+> <r_m_RMSD_587>
+0
+
+> <r_m_RMS_In_Place_582>
+0.219705364845928
+
+> <s_m_subgroup_title>
+align_ligands_0220
+
+> <s_m_subgroupid>
+align_ligands_0220
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,369 @@
+1h1q_0500
+                    3D
+ Schrodinger Suite 2021-2.
+ 45 48  0  0  1  0            999 V2000
+    1.2306   29.0131    6.7975 C   0  0  0  0  0  0
+   -1.7810   31.7872    8.0102 C   0  0  0  0  0  0
+   -0.6540   27.3429   10.0671 C   0  0  0  0  0  0
+   -0.5471   25.8448   10.4062 C   0  0  0  0  0  0
+   -0.7774   25.6526   11.9123 C   0  0  0  0  0  0
+   -0.6298   24.1985   12.3357 C   0  0  0  0  0  0
+   -1.5736   23.3020   11.5330 C   0  0  0  0  0  0
+   -1.3387   23.4791   10.0356 C   0  0  0  0  0  0
+   -1.4976   24.9420    9.6120 C   0  0  0  0  0  0
+    4.7467   25.7520    5.7659 C   0  0  0  0  0  0
+    4.7692   25.1582    7.0314 C   0  0  0  0  0  0
+    3.9684   25.6857    8.0442 C   0  0  0  0  0  0
+    3.1571   26.7942    7.8123 C   0  0  0  0  0  0
+    0.5040   28.1370    7.4764 N   0  0  0  0  0  0
+   -0.6028   28.5409    8.0931 C   0  0  0  0  0  0
+   -1.2712   27.6025    8.8160 O   0  0  0  0  0  0
+   -0.9717   29.8871    7.9871 C   0  0  0  0  0  0
+   -2.0541   30.5815    8.4653 N   0  0  0  0  0  0
+   -0.6105   31.9673    7.3893 N   0  0  0  0  0  0
+   -0.0723   30.7154    7.2672 C   0  0  0  0  0  0
+    1.0470   30.3167    6.6131 N   0  0  0  0  0  0
+    2.3632   28.5259    6.2720 N   0  0  0  0  0  0
+    3.1440   27.4035    6.5506 C   0  0  0  0  0  0
+    3.9456   26.8762    5.5325 C   0  0  0  0  0  0
+   -2.4824   32.5970    8.1499 H   0  0  0  0  0  0
+   -1.2771   27.8534   10.7989 H   0  0  0  0  0  0
+    0.3500   27.7819   10.1542 H   0  0  0  0  0  0
+    0.4761   25.5278   10.1733 H   0  0  0  0  0  0
+   -1.7757   26.0028   12.1756 H   0  0  0  0  0  0
+   -0.0759   26.2665   12.4811 H   0  0  0  0  0  0
+   -0.8253   24.1075   13.4042 H   0  0  0  0  0  0
+    0.4010   23.8774   12.1939 H   0  0  0  0  0  0
+   -2.6149   23.5441   11.7662 H   0  0  0  0  0  0
+   -1.3960   22.2638   11.8096 H   0  0  0  0  0  0
+   -2.0428   22.8596    9.4953 H   0  0  0  0  0  0
+   -0.3462   23.1196    9.7700 H   0  0  0  0  0  0
+   -1.3096   25.0307    8.5396 H   0  0  0  0  0  0
+   -2.5350   25.2583    9.7688 H   0  0  0  0  0  0
+    5.3697   25.3626    4.9737 H   0  0  0  0  0  0
+    5.4016   24.3053    7.2238 H   0  0  0  0  0  0
+    3.9485   25.2205    9.0046 H   0  0  0  0  0  0
+    2.5138   27.1096    8.6073 H   0  0  0  0  0  0
+   -0.2796   32.8228    6.9497 H   0  0  0  0  0  0
+    2.9059   29.2077    5.7603 H   0  0  0  0  0  0
+    3.9588   27.3402    4.5578 H   0  0  0  0  0  0
+  1 14  1  0  0  0
+  1 21  2  0  0  0
+  1 22  1  0  0  0
+  2 18  2  0  0  0
+  2 19  1  0  0  0
+  2 25  1  0  0  0
+  3  4  1  0  0  0
+  3 16  1  0  0  0
+  3 26  1  0  0  0
+  3 27  1  0  0  0
+  4  5  1  0  0  0
+  4  9  1  0  0  0
+  4 28  1  0  0  0
+  5  6  1  0  0  0
+  5 29  1  0  0  0
+  5 30  1  0  0  0
+  6  7  1  0  0  0
+  6 31  1  0  0  0
+  6 32  1  0  0  0
+  7  8  1  0  0  0
+  7 33  1  0  0  0
+  7 34  1  0  0  0
+  8  9  1  0  0  0
+  8 35  1  0  0  0
+  8 36  1  0  0  0
+  9 37  1  0  0  0
+  9 38  1  0  0  0
+ 10 11  2  0  0  0
+ 10 24  1  0  0  0
+ 10 39  1  0  0  0
+ 11 12  1  0  0  0
+ 11 40  1  0  0  0
+ 12 13  2  0  0  0
+ 12 41  1  0  0  0
+ 13 23  1  0  0  0
+ 13 42  1  0  0  0
+ 14 15  2  0  0  0
+ 15 16  1  0  0  0
+ 15 17  1  0  0  0
+ 17 18  1  0  0  0
+ 17 20  2  0  0  0
+ 19 20  1  0  0  0
+ 19 43  1  0  0  0
+ 20 21  1  0  0  0
+ 22 23  1  0  0  0
+ 22 44  1  0  0  0
+ 23 24  2  0  0  0
+ 24 45  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+1783
+
+> <s_m_entry_name>
+Structure1476
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\05A\CDK2\ref
+
+> <s_m_Source_File>
+1h1q_0500.maegz
+
+> <i_m_Source_File_Index>
+1
+
+> <s_i_glide_gridfile>
+glide-grid_CDK2
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+Structure1476-1
+
+> <r_i_docking_score>
+-8.2083053596027
+
+> <r_i_glide_ecoul>
+-9.84115982055664
+
+> <r_i_glide_einternal>
+3.93711733818054
+
+> <r_i_glide_emodel>
+-45.0550522703959
+
+> <r_i_glide_energy>
+-36.2719631195068
+
+> <r_i_glide_erotb>
+0.626270046018621
+
+> <r_i_glide_esite>
+-0.0317450449084609
+
+> <r_i_glide_evdw>
+-26.4308032989502
+
+> <r_i_glide_gscore>
+-8.2211053596027
+
+> <r_i_glide_hbond>
+-0.590676780654585
+
+> <r_i_glide_ligand_efficiency>
+-0.342012723316779
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.96462412714274
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.986535405441494
+
+> <r_i_glide_lipo>
+-2.01409286985678
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-3.41314657217048
+
+> <r_lp_Energy>
+26.072847
+
+> <i_i_glide_confnum>
+29
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+274
+
+> <i_i_glide_rotatable_bonds>
+5
+
+> <i_lp_mmshare_version>
+54117
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_lp_tautomer_probability>
+0.990858854461918
+
+> <r_i_glide_eff_state_penalty>
+0.0128
+
+> <s_pdb_PDB_TITLE>
+STRUCTURE OF HUMAN THR160-PHOSPHO CDK2/CYCLIN A COMPLEXED WITH THE INHIBITOR NU6094
+
+> <s_pdb_PDB_ID>
+1H1Q
+
+> <r_pdb_PDB_CRYST1_a>
+73.99
+
+> <r_pdb_PDB_CRYST1_b>
+134.73
+
+> <r_pdb_PDB_CRYST1_c>
+148.12
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+21-JUL-02
+
+> <s_pdb_PDB_format_version>
+3.15
+
+> <r_pdb_PDB_R>
+0.238
+
+> <r_pdb_PDB_Rfree>
+0.332
+
+> <r_pdb_PDB_RESOLUTION>
+2.5
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+C, D
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbTkhdYyhuYyhjMjMpW25IXVtjSF1uMyluYzJPW0NIMl1bQ0hdNFtDSDJdW0NIMl1bQ0gyXVtDSDJdW0NIMl00
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0642
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0642
+
+> <r_epik_State_Penalty>
+  0.0128
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0128113417223846
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_ppw_entry_id_backup>
+1457
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJztVTFyGzEM/MrN1bZC8AgClLtUbjMpMyk0jqsoUgqlyHj8dx/Ak5Y8F2kUV1KFW5FcgLs7fBlp3A7f5p+WNN0N4fvdYGVCySgzSkGpKMul5ICSUEaUYGOwMdgYbAw2BhuDLYMtgy2DLYMtgy2DLTub1ctN1D1xGawC805qAWuRcGOVvAcCzmADUrPFARuIcL/1ajuAm0PFVzRb1IECoPiWcAGs7M4wDer1xxbIaIzrcJiWfRbTJkKmen0EsapOEZJ1wy0AOmXv1DSKHYDW7TbrCoKgVReCll0fmc+zRBMzbALFuYeX0VqcnR42VML872hE/h3ZtLTv6fL9ajuLykw3fj3tTs/D7+fDbn/6u/UTh59Pu/2nX8f9w/B4//l4+DE8Hf8cTtuBHoYv85LRbXRL1LUSFTsgrAJ0S9RHJipupjDlJlFxwzHVAFH9THY150DFTSpEc6DuyXZyaX7v02Wn/ztdcxtjvDxbGVbOsHKGlQVWFlhZYGWBlQVWFlhZEBwBm4BNwKZgU7Ap2BRsCjYFm4JNwaZgU7CV0IQsuyEUllkAWGYBGkO425XXQMIZ7iFptjig8JB4HoTWAA4Vt500W9x2AtuJB0QQEEnrMzwPguEqUNCY+HCCacVnMW0iZKrXRxCr6hQhWTfcAqBT9U41Y8t0vjGClHUFQdCqC0HLvo9ynuXds6Whf7Y09c+WytWfrVuirpKo2AFpFaBboj4yUe2z5YnCs6XcP1seqP/ybL2+AdFA5Lw=
+
+> <i_f3d_flags>
+0
+
+> <s_m_job_name>
+align_ligands_2
+
+> <r_glide_shape_similarity>
+0.936878383159637
+
+> <i_phase_Input_Structure_Number>
+16
+
+> <i_phase_Structure_Number>
+16
+
+> <i_phase_Reference_Structure>
+16
+
+> <s_phase_Core_SMARTS>
+
+
+> <r_phase_Similarity_to_Reference>
+1
+
+> <s_phase_Alignment_Method>
+
+
+> <s_phase_Alignment_Reason>
+
+
+> <r_m_RMS_In_Place_1476>
+0
+
+> <r_m_RMSD_1466>
+0.228811014740381
+
+> <r_m_RMS_In_Place_1636>
+0.502072798231159
+
+> <s_m_subgroup_title>
+align_ligands_2
+
+> <s_m_subgroupid>
+align_ligands_2
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

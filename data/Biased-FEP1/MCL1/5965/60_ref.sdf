@@ -1,0 +1,404 @@
+60
+                    3D
+ Schrodinger Suite 2021-2.
+ 43 45  0  0  1  0            999 V2000
+    3.2806  -47.4332    6.9060 O   0  0  0  0  0  0
+    3.1590  -48.5467    6.3580 C   0  0  0  0  0  0
+    4.1366  -49.2162    5.9678 O   0  5  0  0  0  0
+    1.8080  -49.0732    6.2065 C   0  0  0  0  0  0
+    1.6291  -50.7509    6.5448 S   0  0  0  0  0  0
+   -0.0950  -50.6434    6.3639 C   0  0  0  0  0  0
+   -1.0332  -51.6661    6.5301 C   0  0  0  0  0  0
+   -2.3911  -51.3964    6.3461 C   0  0  0  0  0  0
+   -2.7962  -50.1119    5.9793 C   0  0  0  0  0  0
+   -1.8498  -49.1069    5.7936 C   0  0  0  0  0  0
+   -0.4776  -49.3248    5.9954 C   0  0  0  0  0  0
+    0.6456  -48.4326    5.8838 C   0  0  0  0  0  0
+    0.6278  -47.0138    5.4217 C   0  0  0  0  0  0
+   -0.4645  -46.0988    5.9180 C   0  0  0  0  0  0
+   -0.6680  -45.8560    7.3937 C   0  0  0  0  0  0
+   -1.7623  -46.5900    7.8844 O   0  0  0  0  0  0
+   -3.0179  -46.0401    7.8720 C   0  0  0  0  0  0
+   -3.5168  -45.1645    6.8946 C   0  0  0  0  0  0
+   -4.8370  -44.6863    6.9855 C   0  0  0  0  0  0
+   -5.3816  -43.8005    5.8924 C   0  0  0  0  0  0
+   -5.6412  -45.0540    8.0742 C   0  0  0  0  0  0
+   -7.2268  -44.4193    8.2236 Cl  0  0  0  0  0  0
+   -5.1376  -45.9293    9.0450 C   0  0  0  0  0  0
+   -5.9513  -46.3227   10.2456 C   0  0  0  0  0  0
+   -3.8487  -46.4374    8.9191 C   0  0  0  0  0  0
+   -0.7039  -52.6550    6.8124 H   0  0  0  0  0  0
+   -3.1254  -52.1773    6.4897 H   0  0  0  0  0  0
+   -3.8434  -49.8941    5.8208 H   0  0  0  0  0  0
+   -2.2208  -48.1482    5.4901 H   0  0  0  0  0  0
+    0.5914  -47.0076    4.3328 H   0  0  0  0  0  0
+    1.5573  -46.4972    5.6276 H   0  0  0  0  0  0
+   -1.4130  -46.3131    5.4420 H   0  0  0  0  0  0
+   -0.0873  -45.1627    5.5237 H   0  0  0  0  0  0
+   -0.8322  -44.8032    7.5803 H   0  0  0  0  0  0
+    0.2482  -46.1125    7.9099 H   0  0  0  0  0  0
+   -2.9059  -44.8728    6.0538 H   0  0  0  0  0  0
+   -4.7560  -43.8451    4.9937 H   0  0  0  0  0  0
+   -5.4103  -42.7639    6.2357 H   0  0  0  0  0  0
+   -6.3869  -44.1076    5.5950 H   0  0  0  0  0  0
+   -5.6482  -47.3041   10.6084 H   0  0  0  0  0  0
+   -5.8013  -45.5943   11.0421 H   0  0  0  0  0  0
+   -7.0116  -46.3694   10.0203 H   0  0  0  0  0  0
+   -3.4671  -47.1156    9.6676 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  1  0  0  0
+  4 12  2  0  0  0
+  5  6  1  0  0  0
+  6  7  1  0  0  0
+  6 11  2  0  0  0
+  7  8  2  0  0  0
+  7 26  1  0  0  0
+  8  9  1  0  0  0
+  8 27  1  0  0  0
+  9 10  2  0  0  0
+  9 28  1  0  0  0
+ 10 11  1  0  0  0
+ 10 29  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 13 14  1  0  0  0
+ 13 30  1  0  0  0
+ 13 31  1  0  0  0
+ 14 15  1  0  0  0
+ 14 32  1  0  0  0
+ 14 33  1  0  0  0
+ 15 16  1  0  0  0
+ 15 34  1  0  0  0
+ 15 35  1  0  0  0
+ 16 17  1  0  0  0
+ 17 18  1  0  0  0
+ 17 25  2  0  0  0
+ 18 19  2  0  0  0
+ 18 36  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  1  0  0  0
+ 20 37  1  0  0  0
+ 20 38  1  0  0  0
+ 20 39  1  0  0  0
+ 21 22  1  0  0  0
+ 21 23  2  0  0  0
+ 23 24  1  0  0  0
+ 23 25  1  0  0  0
+ 24 40  1  0  0  0
+ 24 41  1  0  0  0
+ 24 42  1  0  0  0
+ 25 43  1  0  0  0
+M  CHG  1   3  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+362
+
+> <s_m_entry_name>
+Structure46
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\05A\MCL1\biased
+
+> <s_m_Source_File>
+05965.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+DISCOVERY OF POTENT MCL-1 INHIBITORS USING FRAGMENT-BASED METHODS AND STRUCTURE-BASED DESIGN
+
+> <s_pdb_PDB_ID>
+4HW3
+
+> <r_pdb_PDB_CRYST1_a>
+139.446
+
+> <r_pdb_PDB_CRYST1_b>
+58.76
+
+> <r_pdb_PDB_CRYST1_c>
+140.675
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90.71
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <i_pdb_PDB_CRYST1_z>
+24
+
+> <s_pdb_PDB_CLASSIFICATION>
+APOPTOSIS/INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+07-NOV-12
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.215
+
+> <r_pdb_PDB_Rfree>
+0.263
+
+> <r_pdb_PDB_RESOLUTION>
+2.4
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains>
+D
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_5_Transform_1_Chains>
+E
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_5_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_6_Transform_1_Chains>
+F
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_6_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_7_Transform_1_Chains>
+G
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_7_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_8_Transform_1_Chains>
+H
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_8_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_9_Transform_1_Chains>
+I
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_9_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_10_Transform_1_Chains>
+J
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_10_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_11_Transform_1_Chains>
+K
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_11_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_12_Transform_1_Chains>
+L
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_12_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_ppw_entry_id_backup>
+43
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+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
+
+> <r_m_RMSD_1>
+0.355586813946655
+
+> <i_lp_mmshare_version>
+54117
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1jKGMxMiljKGMoczIpQyg9TylbT0hdKVtDSDJdW0NIMl1bQ0gyXU9jM1tjSF1jKFtDSDNdKWMoQ2wpYyhbQ0gzXSlbY0hdMw==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0003
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0003
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0002
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000510516326773571
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+35.892821
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure46-1
+
+> <s_m_job_name>
+glide-dock_SP_redock
+
+> <s_i_glide_gridfile>
+glide-grid_MCL1
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_rotatable_bonds>
+6
+
+> <r_i_docking_score>
+-7.8430136707083
+
+> <r_i_glide_ligand_efficiency>
+-0.313720546828332
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.917324442783631
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.85902927611132
+
+> <r_i_glide_gscore>
+-7.8432136707083
+
+> <r_i_glide_lipo>
+-5.11389883575944
+
+> <r_i_glide_hbond>
+-0.2
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-1.57012662761783
+
+> <r_i_glide_evdw>
+-25.1108379364014
+
+> <r_i_glide_ecoul>
+-2.47534036636353
+
+> <r_i_glide_erotb>
+0.691430156709043
+
+> <r_i_glide_esite>
+-0.0237754122654694
+
+> <r_i_glide_emodel>
+-40.1309747179918
+
+> <r_i_glide_energy>
+-27.5861783027649
+
+> <r_i_glide_einternal>
+7.35720872879028
+
+> <i_i_glide_confnum>
+144
+
+> <i_i_glide_posenum>
+254
+
+> <r_i_glide_eff_state_penalty>
+0.0002
+
+> <r_glide_shape_similarity>
+0.931264758110046
+
+> <r_m_RMS_In_Place_46>
+0.59654905178753
+
+> <r_m_RMSD_46>
+0.909838783363456
+
+> <s_m_subgroup_title>
+glide-dock_SP_redock_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_redock_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,389 @@
+5
+                    3D
+ Schrodinger Suite 2021-2.
+ 52 54  0  0  1  0            999 V2000
+   16.1775  -15.7633   23.0447 N   0  3  0  0  0  0
+   17.4654  -15.0472   23.0927 C   0  0  1  0  0  0
+   17.2309  -13.6063   22.5909 C   0  0  0  0  0  0
+   16.2595  -13.0028   23.0448 O   0  0  0  0  0  0
+   18.0183  -15.0960   24.5390 C   0  0  0  0  0  0
+   19.4107  -14.5215   24.7439 C   0  0  0  0  0  0
+   19.5786  -13.3026   25.4321 C   0  0  0  0  0  0
+   20.5464  -15.2075   24.2637 C   0  0  0  0  0  0
+   20.8598  -12.7388   25.5896 C   0  0  0  0  0  0
+   21.8304  -14.6469   24.4220 C   0  0  0  0  0  0
+   21.9862  -13.4081   25.0733 C   0  0  0  0  0  0
+   18.0591  -13.0467   21.6695 N   0  0  0  0  0  0
+   17.8492  -11.7197   21.0521 C   0  0  2  0  0  0
+   16.4393  -11.5354   20.4509 C   0  0  0  0  0  0
+   15.9026  -12.4655   19.8420 O   0  0  0  0  0  0
+   18.9070  -11.6088   19.9423 C   0  0  0  0  0  0
+   19.9930  -12.5971   20.3188 C   0  0  0  0  0  0
+   19.2943  -13.6557   21.1693 C   0  0  0  0  0  0
+   15.8547  -10.3441   20.6448 N   0  0  0  0  0  0
+   14.4977   -9.9948   20.2409 C   0  0  0  0  0  0
+   13.4421  -10.4547   21.2318 C   0  0  0  0  0  0
+   12.9260  -11.7670   21.1617 C   0  0  0  0  0  0
+   11.9372  -12.1898   22.0693 C   0  0  0  0  0  0
+   11.4544  -11.2990   23.0448 C   0  0  0  0  0  0
+   11.9644   -9.9893   23.1212 C   0  0  0  0  0  0
+   12.9634   -9.5705   22.2215 C   0  0  0  0  0  0
+   15.8568  -15.7926   22.0790 H   0  0  0  0  0  0
+   16.2673  -16.7007   23.4054 H   0  0  0  0  0  0
+   18.1388  -15.5905   22.4311 H   0  0  0  0  0  0
+   18.0525  -16.1326   24.8779 H   0  0  0  0  0  0
+   17.3253  -14.5932   25.2172 H   0  0  0  0  0  0
+   18.7222  -12.7922   25.8452 H   0  0  0  0  0  0
+   20.4376  -16.1512   23.7514 H   0  0  0  0  0  0
+   20.9758  -11.7961   26.1076 H   0  0  0  0  0  0
+   22.6974  -15.1693   24.0459 H   0  0  0  0  0  0
+   22.9714  -12.9815   25.1982 H   0  0  0  0  0  0
+   18.0342  -10.9641   21.8181 H   0  0  0  0  0  0
+   19.2961  -10.5953   19.8474 H   0  0  0  0  0  0
+   18.4988  -11.8936   18.9710 H   0  0  0  0  0  0
+   20.7464  -12.0898   20.9232 H   0  0  0  0  0  0
+   20.5031  -13.0209   19.4526 H   0  0  0  0  0  0
+   19.9514  -13.9881   21.9688 H   0  0  0  0  0  0
+   19.0428  -14.5178   20.5496 H   0  0  0  0  0  0
+   16.3799   -9.6374   21.1490 H   0  0  0  0  0  0
+   14.4371   -8.9106   20.1372 H   0  0  0  0  0  0
+   14.2704  -10.4116   19.2577 H   0  0  0  0  0  0
+   13.2855  -12.4515   20.4078 H   0  0  0  0  0  0
+   11.5413  -13.1932   22.0145 H   0  0  0  0  0  0
+   10.6858  -11.6234   23.7311 H   0  0  0  0  0  0
+   11.5983   -9.3075   23.8753 H   0  0  0  0  0  0
+   13.3582   -8.5684   22.2940 H   0  0  0  0  0  0
+   15.4955  -15.2355   23.5819 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 27  1  0  0  0
+  1 28  1  0  0  0
+  1 52  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 29  1  0  0  0
+  3  4  2  0  0  0
+  3 12  1  0  0  0
+  5  6  1  0  0  0
+  5 30  1  0  0  0
+  5 31  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  7  9  1  0  0  0
+  7 32  1  0  0  0
+  8 10  2  0  0  0
+  8 33  1  0  0  0
+  9 11  2  0  0  0
+  9 34  1  0  0  0
+ 10 11  1  0  0  0
+ 10 35  1  0  0  0
+ 11 36  1  0  0  0
+ 12 13  1  0  0  0
+ 12 18  1  0  0  0
+ 13 14  1  0  0  0
+ 13 16  1  0  0  0
+ 13 37  1  0  0  0
+ 14 15  2  0  0  0
+ 14 19  1  0  0  0
+ 16 17  1  0  0  0
+ 16 38  1  0  0  0
+ 16 39  1  0  0  0
+ 17 18  1  0  0  0
+ 17 40  1  0  0  0
+ 17 41  1  0  0  0
+ 18 42  1  0  0  0
+ 18 43  1  0  0  0
+ 19 20  1  0  0  0
+ 19 44  1  0  0  0
+ 20 21  1  0  0  0
+ 20 45  1  0  0  0
+ 20 46  1  0  0  0
+ 21 22  2  0  0  0
+ 21 26  1  0  0  0
+ 22 23  1  0  0  0
+ 22 47  1  0  0  0
+ 23 24  2  0  0  0
+ 23 48  1  0  0  0
+ 24 25  1  0  0  0
+ 24 49  1  0  0  0
+ 25 26  2  0  0  0
+ 25 50  1  0  0  0
+ 26 51  1  0  0  0
+M  CHG  1   1   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+630
+
+> <s_m_entry_name>
+Structure204
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\05A\Thrombin
+
+> <s_m_Source_File>
+0255.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <s_i_glide_gridfile>
+glide-grid_Thro
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+Structure204-1
+
+> <r_i_docking_score>
+-11.2439948841884
+
+> <r_i_glide_ecoul>
+-17.3765506744385
+
+> <r_i_glide_einternal>
+1.16667604446411
+
+> <r_i_glide_emodel>
+-106.998491772462
+
+> <r_i_glide_energy>
+-62.5730876922607
+
+> <r_i_glide_erotb>
+0.921826395697577
+
+> <r_i_glide_esite>
+-0.0355306472353649
+
+> <r_i_glide_evdw>
+-45.1965370178223
+
+> <r_i_glide_gscore>
+-11.4159948841884
+
+> <r_i_glide_hbond>
+-0.864
+
+> <r_i_glide_ligand_efficiency>
+-0.432461341699555
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.64061530399518
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.28116502313172
+
+> <r_i_glide_lipo>
+-4.76451164362605
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-1.80746953696771
+
+> <r_lp_Energy>
+35.933577
+
+> <i_i_glide_confnum>
+8
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+333
+
+> <i_i_glide_rotatable_bonds>
+8
+
+> <i_lp_mmshare_version>
+54117
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_i_glide_eff_state_penalty>
+0.172
+
+> <r_m_RMS_In_Place_204>
+0.25531705309598
+
+> <s_pdb_PDB_TITLE>
+EXPLORING THROMBIN S1-POCKET
+
+> <s_pdb_PDB_ID>
+2ZFF
+
+> <r_pdb_PDB_CRYST1_a>
+70.1
+
+> <r_pdb_PDB_CRYST1_b>
+71.5
+
+> <r_pdb_PDB_CRYST1_c>
+72.5
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+100.3
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+BLOOD CLOTTING/HYDROLASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+04-JAN-08
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.156
+
+> <r_pdb_PDB_Rfree>
+0.26
+
+> <r_pdb_PDB_RESOLUTION>
+1.47
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+110
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+L, H, I
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0gyXVtDQEBIXShbTkgyXSlDKD1PKU4yW0NAQEhdKFtDSDJdW0NIMl1bQ0gyXTIpQyg9TylbTkhdW0NIMl1jM1tjSF1bY0hdW2NIXVtjSF1bY0hdMw==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1825
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1825
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1720
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.354512576374698
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_ppw_entry_id_backup>
+202
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2021-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJztVT1PwzAU/CtWVkLxe6mf43RjYkWMVYeodCJNGMKAqv53/JFwTgExMVFLkU6X5N3l7FNOBRWN2vrF1ZpKRbtdqbb+0itdqtN5AsXT2I4H9Xro2258bwKp1cu+7e6OQ7dRD7f3Q/+s9sNbP/qbG/XYqBsqwqyCMZ//Yn6F+ZWfFsZ7uAY0gAJoAWtA9wmNBiRABoSagZqBmoGagZqBmoGaQE2gJlATqAnUBGoCNYGaRLWAp3xSNISUUkBLwoIwkfCzOSdMNsPGJ2oQdSQcXolEyJOQckqVkHXKlpF4SpiReyIIkae0F4RAxSSncknAabiX9oZzQjJjyboD4S5UJDoVBhGdCpxKTD1sGi8I+JBkHd8i0akgdUnGsC9i5xkcdpdWVtfV3Cd2ZHW27Nd++Rfox35R7Jcu4rGZzk12QK69uvbq3/RKS2XnXjlvwmXru1pp+aVW8bd1/gDv7p/8
+
+> <b_ppw_ran_protassign>
+1
+
+> <b_ppw_deleted_far_waters>
+1
+
+> <r_i_Potential_Energy-S-OPLS>
+-1211.86575150528
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.105921039068189
+
+> <r_i_Max_Derivative-S-OPLS>
+2.32310212612567
+
+> <r_i_Stretch_Energy-S-OPLS>
+118.179893667185
+
+> <r_i_Bend_Energy-S-OPLS>
+603.853882680305
+
+> <r_i_LJ-14_Energy-S-OPLS>
+1416.61818650828
+
+> <r_i_El-14_Energy-S-OPLS>
+437.782569426701
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-2842.29116761334
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+-1541.21557556348
+
+> <r_i_Dihedral_Energy-S-OPLS>
+522.016882426734
+
+> <r_i_target_temperature>
+298
+
+> <b_ppw_ran_impref>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_m_job_name>
+align_ligands_3
+
+> <r_phase_Shape_Sim>
+1
+
+> <s_m_subgroup_title>
+align_ligands_3
+
+> <s_m_subgroupid>
+align_ligands_3
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

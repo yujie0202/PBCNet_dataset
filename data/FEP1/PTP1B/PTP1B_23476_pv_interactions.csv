@@ -1,0 +1,30 @@
+Type,Ligand,Title,LigResidue,LigAtom,RecResidue,RecAtom,Dist
+HDonor cc,1,,A:120(LYS),1954( HZ1),_:900(UNK),28(    ),1.909
+HDonor cn,1,,A:182(PHE),3002( H  ),_:900(UNK),3(    ),1.604
+HDonor nn,1,,A:221(ARG),3565( H  ),_:900(UNK),1(    ),2.910
+HDonor nn,1,,A:221(ARG),3573( HE ),_:900(UNK),1(    ),1.728
+HDonor nc,1,,A:221(ARG),3577(HH21),_:900(UNK),1(    ),2.464
+HAccep nn,1,,A:262(GLN),4245( OE1),_:900(UNK),34(    ),2.724
+HDonor cn,1,,A:266(GLN),4306(HE22),_:900(UNK),3(    ),2.229
+Salt,1,,A:120(LYS),1943( NZ ),_:900(UNK),28(    ),2.686
+HPhob,1,,A:46(TYR),735( CG ),_:900(UNK),11(    ),3.993
+HPhob,1,,A:46(TYR),736( CD1),_:900(UNK),11(    ),3.934
+HPhob,1,,A:46(TYR),738( CE1),_:900(UNK),24(    ),3.880
+HPhob,1,,A:48(ASP),779( CB ),_:900(UNK),13(    ),4.015
+HPhob,1,,A:49(VAL),793( CG2),_:900(UNK),11(    ),3.730
+HPhob,1,,A:49(VAL),793( CG2),_:900(UNK),12(    ),3.517
+HPhob,1,,A:49(VAL),793( CG2),_:900(UNK),13(    ),3.734
+HPhob,1,,A:182(PHE),2999( CE1),_:900(UNK),7(    ),4.100
+HPhob,1,,A:182(PHE),2999( CE1),_:900(UNK),25(    ),4.041
+HPhob,1,,A:182(PHE),3000( CE2),_:900(UNK),25(    ),3.696
+HPhob,1,,A:182(PHE),3001( CZ ),_:900(UNK),7(    ),4.055
+HPhob,1,,A:182(PHE),3001( CZ ),_:900(UNK),9(    ),4.007
+HPhob,1,,A:182(PHE),3001( CZ ),_:900(UNK),24(    ),3.488
+HPhob,1,,A:182(PHE),3001( CZ ),_:900(UNK),25(    ),3.255
+HPhob,1,,A:217(ALA),3515( CB ),_:900(UNK),7(    ),3.424
+HPhob,1,,A:217(ALA),3515( CB ),_:900(UNK),8(    ),3.640
+HPhob,1,,A:217(ALA),3515( CB ),_:900(UNK),9(    ),3.844
+HPhob,1,,A:219(ILE),3533( CG1),_:900(UNK),8(    ),2.998
+HPhob,1,,A:219(ILE),3535( CD1),_:900(UNK),8(    ),3.277
+HPhob,1,,A:262(GLN),4242( CB ),_:900(UNK),8(    ),4.020
+HPhob,1,,A:262(GLN),4243( CG ),_:900(UNK),8(    ),3.787

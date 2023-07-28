@@ -1,0 +1,269 @@
+1d
+                    3D
+ Schrodinger Suite 2021-2.
+ 52 54  0  0  1  0            999 V2000
+   18.0710  -13.1290   21.6826 N   0  0  0  0  0  0
+   17.8649  -11.8200   21.0215 C   0  0  2  0  0  0
+   17.2451  -13.6483   22.6337 C   0  0  0  0  0  0
+   16.2555  -13.0427   23.0440 O   0  0  0  0  0  0
+   16.4556  -11.6299   20.4295 C   0  0  0  0  0  0
+   15.9128  -12.5508   19.8112 O   0  0  0  0  0  0
+   18.9339  -11.7417   19.9227 C   0  0  0  0  0  0
+   17.5302  -15.0262   23.2631 C   0  0  2  0  0  0
+   15.8806  -10.4359   20.6443 N   0  0  0  0  0  0
+   19.9918  -12.7658   20.2875 C   0  0  0  0  0  0
+   16.2553  -15.7762   23.3492 N   0  3  0  0  0  0
+   18.1569  -14.9177   24.6803 C   0  0  0  0  0  0
+   14.5514  -10.0564   20.1958 C   0  0  0  0  0  0
+   19.3002  -13.7678   21.2072 C   0  0  0  0  0  0
+   19.5852  -14.3952   24.7566 C   0  0  0  0  0  0
+   13.4765  -10.3995   21.1995 C   0  0  0  0  0  0
+   19.8545  -13.1363   25.3338 C   0  0  0  0  0  0
+   13.0445   -9.4685   22.1728 C   0  0  0  0  0  0
+   21.1683  -12.6399   25.3928 C   0  0  0  0  0  0
+   12.0220   -9.8135   23.0865 C   0  0  0  0  0  0
+   22.2306  -13.4107   24.8855 C   0  0  0  0  0  0
+   11.4470  -11.1134   23.0599 C   0  0  0  0  0  0
+   21.9776  -14.6833   24.3372 C   0  0  0  0  0  0
+   11.9124  -12.0346   22.1025 C   0  0  0  0  0  0
+   20.6595  -15.1779   24.2765 C   0  0  0  0  0  0
+   12.8970  -11.6862   21.1821 C   0  0  0  0  0  0
+   18.0688  -11.0517   21.7692 H   0  0  0  0  0  0
+   19.3511  -10.7392   19.8376 H   0  0  0  0  0  0
+   18.5211  -12.0102   18.9513 H   0  0  0  0  0  0
+   18.1781  -15.6286   22.6311 H   0  0  0  0  0  0
+   16.4143   -9.7390   21.1618 H   0  0  0  0  0  0
+   20.7813  -12.2681   20.8475 H   0  0  0  0  0  0
+   20.4623  -13.2389   19.4204 H   0  0  0  0  0  0
+   15.8939  -15.9141   22.4121 H   0  0  0  0  0  0
+   16.3978  -16.6639   23.8026 H   0  0  0  0  0  0
+   18.1673  -15.9041   25.1434 H   0  0  0  0  0  0
+   17.5174  -14.3069   25.3234 H   0  0  0  0  0  0
+   14.5460   -8.9885   20.0148 H   0  0  0  0  0  0
+   14.3164  -10.5340   19.2416 H   0  0  0  0  0  0
+   19.9638  -14.0599   22.0156 H   0  0  0  0  0  0
+   19.0418  -14.6622   20.6410 H   0  0  0  0  0  0
+   19.0556  -12.5469   25.7441 H   0  0  0  0  0  0
+   13.4726   -8.4943   22.2055 H   0  0  0  0  0  0
+   21.3577  -11.6774   25.8391 H   0  0  0  0  0  0
+   11.6988   -9.0944   23.8177 H   0  0  0  0  0  0
+   23.2407  -13.0402   24.9458 H   0  0  0  0  0  0
+   22.7923  -15.2808   23.9619 H   0  0  0  0  0  0
+   11.5903  -14.0421   21.8446 I   0  0  0  0  0  0
+   20.4741  -16.1482   23.8436 H   0  0  0  0  0  0
+   13.2576  -12.4099   20.4768 H   0  0  0  0  0  0
+   10.6777  -11.3886   23.7820 H   0  0  0  0  0  0
+   15.5744  -15.2115   23.8565 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 14  1  0  0  0
+  1  3  1  0  0  0
+  2  5  1  0  0  0
+  2  7  1  0  0  0
+  2 27  1  0  0  0
+  3  8  1  0  0  0
+  3  4  2  0  0  0
+  5  6  2  0  0  0
+  5  9  1  0  0  0
+  7 10  1  0  0  0
+  7 28  1  0  0  0
+  7 29  1  0  0  0
+  8 11  1  0  0  0
+  8 12  1  0  0  0
+  8 30  1  0  0  0
+  9 13  1  0  0  0
+  9 31  1  0  0  0
+ 10 14  1  0  0  0
+ 10 32  1  0  0  0
+ 10 33  1  0  0  0
+ 11 34  1  0  0  0
+ 11 35  1  0  0  0
+ 11 52  1  0  0  0
+ 12 15  1  0  0  0
+ 12 36  1  0  0  0
+ 12 37  1  0  0  0
+ 13 16  1  0  0  0
+ 13 38  1  0  0  0
+ 13 39  1  0  0  0
+ 14 40  1  0  0  0
+ 14 41  1  0  0  0
+ 15 17  1  0  0  0
+ 15 25  2  0  0  0
+ 16 18  1  0  0  0
+ 16 26  2  0  0  0
+ 17 19  2  0  0  0
+ 17 42  1  0  0  0
+ 18 20  2  0  0  0
+ 18 43  1  0  0  0
+ 19 21  1  0  0  0
+ 19 44  1  0  0  0
+ 20 22  1  0  0  0
+ 20 45  1  0  0  0
+ 21 23  2  0  0  0
+ 21 46  1  0  0  0
+ 22 24  2  0  0  0
+ 22 51  1  0  0  0
+ 23 25  1  0  0  0
+ 23 47  1  0  0  0
+ 24 26  1  0  0  0
+ 24 48  1  0  0  0
+ 25 49  1  0  0  0
+ 26 50  1  0  0  0
+M  CHG  1  11   1
+M  END
+> <s_m_entry_id>
+610
+
+> <s_m_entry_name>
+Thrombin_1d.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\05A\Thrombin
+
+> <s_m_Source_File>
+Thrombin_1d.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <s_i_glide_gridfile>
+glide-grid_Thro
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <s_lp_Variant>
+1d-1
+
+> <r_i_docking_score>
+-9.93696506617639
+
+> <r_i_glide_ecoul>
+-15.1409902572632
+
+> <r_i_glide_einternal>
+5.27347992829164e-07
+
+> <r_i_glide_emodel>
+-111.774686138631
+
+> <r_i_glide_energy>
+-54.6633138656616
+
+> <r_i_glide_erotb>
+0.708476163193709
+
+> <r_i_glide_esite>
+-0.0186419740448936
+
+> <r_i_glide_evdw>
+-39.5223236083984
+
+> <r_i_glide_gscore>
+-10.1089650661764
+
+> <r_i_glide_hbond>
+-0.864
+
+> <r_i_glide_ligand_efficiency>
+-0.368035743191718
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.31316164373323
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.10410722836217
+
+> <r_i_glide_lipo>
+-4.7802969995075
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-0.907237536808308
+
+> <r_lp_Energy>
+37.119243
+
+> <i_i_glide_confnum>
+6
+
+> <i_i_glide_lignum>
+1
+
+> <i_i_glide_posenum>
+6
+
+> <i_i_glide_rotatable_bonds>
+8
+
+> <i_lp_mmshare_version>
+54117
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <r_i_glide_eff_state_penalty>
+0.172
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0gyXVtDQEBIXShbTkgyXSlDKD1PKU4yW0NAQEhdKFtDSDJdW0NIMl1bQ0gyXTIpQyg9TylbTkhdW0NIMl1jM1tjSF1bY0hdW2NIXWMoSSlbY0hdMw==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1825
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1825
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1720
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.354512576374698
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_m_source_file>
+ligprep_Thro.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_m_job_name>
+glide-dock_SP_Thro_other
+
+> <r_user_dG.exp>
+-8.25
+
+> <r_m_Molecular_weight>
+478.3567
+
+> <r_i_glide_rmsd>
+0.0327115065100122
+
+> <s_glide_core_constrain_type>
+snapped_core_restrain
+
+> <s_m_subgroup_title>
+glide-dock_SP_Thro_other_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_Thro_other_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

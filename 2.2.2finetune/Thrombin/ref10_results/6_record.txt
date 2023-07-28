@@ -1,0 +1,84 @@
+without ligands RMSE_G 0.4765874562455169 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.40577583522456895 Spearman 0.8272727272727273 Pearson 0.8470257415412034 Kendall 0.6727272727272727
+ 
+    
+Epoch 0  Loss 0.013797332843144735
+Training Set mae 0.48616164525349936
+Training Set rmse 0.6077064384576504
+Epoch 0
+without ligands RMSE_G 0.31628943343976806 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4952130652240947 Spearman 0.8545454545454545 Pearson 0.8546711897212587 Kendall 0.7454545454545454
+ 
+    
+Epoch 1  Loss 0.014574778079986573
+Training Set mae 0.46412779490152994
+Training Set rmse 0.5894255535962843
+Epoch 1
+without ligands RMSE_G 0.4245049816542334 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4530961584004942 Spearman 0.8545454545454545 Pearson 0.8532727786287674 Kendall 0.7454545454545454
+ 
+    
+Epoch 2  Loss 0.01247745586766137
+Training Set mae 0.39688756730821395
+Training Set rmse 0.48802217519298136
+Epoch 2
+without ligands RMSE_G 0.501077371713587 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4744065485687672 Spearman 0.8545454545454545 Pearson 0.8446487650791018 Kendall 0.7454545454545454
+ 
+    
+Epoch 3  Loss 0.009661550654305353
+Training Set mae 0.37699332767062715
+Training Set rmse 0.4581574651673707
+Epoch 3
+without ligands RMSE_G 0.5672465693771568 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.5049156329077736 Spearman 0.8272727272727273 Pearson 0.843007035983451 Kendall 0.7090909090909091
+ 
+    
+Epoch 4  Loss 0.010759251316388448
+Training Set mae 0.4205314212375217
+Training Set rmse 0.5107912414865996
+Epoch 4
+without ligands RMSE_G 0.49266941623261845 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.49010867385749585 Spearman 0.8272727272727273 Pearson 0.8423343655335515 Kendall 0.7090909090909091
+ 
+    
+Epoch 5  Loss 0.007817633946736654
+Training Set mae 0.3373207728068034
+Training Set rmse 0.40887156973892363
+Epoch 5
+without ligands RMSE_G 0.4507258458807681 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.48719155795014296 Spearman 0.8454545454545455 Pearson 0.844550558562797 Kendall 0.7454545454545454
+ 
+    
+Epoch 6  Loss 0.01179476214779748
+Training Set mae 0.40844400193956165
+Training Set rmse 0.4895759960733991
+Epoch 6
+without ligands RMSE_G 0.41124239870641366 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4838262032234023 Spearman 0.8727272727272727 Pearson 0.847853580703127 Kendall 0.7818181818181819
+ 
+    
+Epoch 7  Loss 0.009916753901375665
+Training Set mae 0.3677119361029731
+Training Set rmse 0.4729173679878759
+Epoch 7
+without ligands RMSE_G 0.418140860258517 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4715687204073588 Spearman 0.8727272727272727 Pearson 0.8547748117812481 Kendall 0.7818181818181819
+ 
+    
+Epoch 8  Loss 0.006629838214980231
+Training Set mae 0.3353710598415799
+Training Set rmse 0.41306037473030033
+Epoch 8
+without ligands RMSE_G 0.46274225820054166 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.46226580509909737 Spearman 0.8727272727272727 Pearson 0.8621806710289067 Kendall 0.7818181818181819
+ 
+    
+Epoch 9  Loss 0.009080399738417731
+Training Set mae 0.38320887883504234
+Training Set rmse 0.46893949846212474
+Epoch 9
+without ligands RMSE_G 0.4995826902718713 Spearman nan Pearson nan Kendall nan
+with ligands RMSE_G 0.4545995115506319 Spearman 0.8727272727272727 Pearson 0.8705643110692536 Kendall 0.7818181818181819
+ 
+Stop Training

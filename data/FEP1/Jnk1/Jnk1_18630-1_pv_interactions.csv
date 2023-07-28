@@ -1,0 +1,15 @@
+Type,Ligand,Title,LigResidue,LigAtom,RecResidue,RecAtom,Dist
+HAccep nn,1,,A:109(GLU),1647( O  ),_:900(UNK),30(    ),2.172
+HDonor nn,1,,A:111(MET),1686( H  ),_:900(UNK),15(    ),1.742
+HPhob,1,,A:32(ILE),403( CB ),_:900(UNK),19(    ),3.756
+HPhob,1,,A:32(ILE),403( CB ),_:900(UNK),20(    ),3.911
+HPhob,1,,A:32(ILE),403( CB ),_:900(UNK),21(    ),4.004
+HPhob,1,,A:32(ILE),405( CG2),_:900(UNK),19(    ),3.578
+HPhob,1,,A:40(VAL),501( CG1),_:900(UNK),1(    ),3.874
+HPhob,1,,A:40(VAL),502( CG2),_:900(UNK),10(    ),4.028
+HPhob,1,,A:53(ALA),697( CB ),_:900(UNK),7(    ),3.795
+HPhob,1,,A:110(LEU),1666( CD2),_:900(UNK),16(    ),3.967
+HPhob,1,,A:111(MET),1682( CB ),_:900(UNK),16(    ),4.021
+HPhob,1,,A:168(LEU),2607( CG ),_:900(UNK),10(    ),3.978
+HPhob,1,,A:168(LEU),2608( CD1),_:900(UNK),10(    ),3.631
+HPhob,1,,A:168(LEU),2609( CD2),_:900(UNK),10(    ),3.570

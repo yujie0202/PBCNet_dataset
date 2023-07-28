@@ -1,0 +1,251 @@
+/home/yujie/leadopt/data/result/selection/BCL6/lig_12b.sdf:1
+                    3D
+ Schrodinger Suite 2021-2.
+ 50 54  0  0  1  0            999 V2000
+  -21.8688    8.1412   19.8434 C   0  0  0  0  0  0
+  -22.3388    9.5065   19.5806 N   0  0  0  0  0  0
+  -21.7467   10.5209   20.2495 C   0  0  0  0  0  0
+  -20.7842   10.3320   20.9911 O   0  0  0  0  0  0
+  -22.2892   11.8572   20.0641 C   0  0  0  0  0  0
+  -23.2582   12.1308   19.1508 C   0  0  0  0  0  0
+  -23.7419   13.3992   18.8350 N   0  0  0  0  0  0
+  -23.3903   14.7584   19.2446 C   0  0  1  0  0  0
+  -22.1214   14.8750   20.0358 C   0  0  0  0  0  0
+  -22.2574   13.9730   21.2417 C   0  0  0  0  0  0
+  -21.6811   12.7371   20.9254 O   0  0  0  0  0  0
+  -23.5412   15.7264   18.0913 C   0  0  0  0  0  0
+  -22.5259   16.7821   17.7188 C   0  0  0  0  0  0
+  -22.7230   15.5814   16.8382 C   0  0  0  0  0  0
+  -23.8337   11.0127   18.3500 C   0  0  0  0  0  0
+  -24.7970   11.1923   17.3263 C   0  0  0  0  0  0
+  -25.2347   10.1144   16.5320 C   0  0  0  0  0  0
+  -24.7902    8.8221   16.8349 C   0  0  0  0  0  0
+  -23.8546    8.6206   17.8514 C   0  0  0  0  0  0
+  -23.3528    9.7080   18.5992 C   0  0  0  0  0  0
+  -26.0981   10.3478   15.4517 N   0  0  0  0  0  0
+  -26.0091    9.8551   14.1350 C   0  0  0  0  0  0
+  -24.8772    9.1338   13.7139 C   0  0  0  0  0  0
+  -24.8015    8.6843   12.3918 C   0  0  0  0  0  0
+  -25.7636    8.9049   11.4855 N   0  0  0  0  0  0
+  -26.8497    9.6003   11.8639 C   0  0  0  0  0  0
+  -27.0237   10.0990   13.1766 C   0  0  0  0  0  0
+  -28.2198   10.8657   13.4773 C   0  0  0  0  0  0
+  -29.1783   11.4684   13.6930 N   0  0  0  0  0  0
+  -28.0455    9.8450   10.6382 Cl  0  0  0  0  0  0
+  -24.1107   15.0853   19.9774 H   0  0  0  0  0  0
+  -21.2289    8.0279   20.7181 H   0  0  0  0  0  0
+  -22.7122    7.4738   20.0318 H   0  0  0  0  0  0
+  -21.3077    7.7638   18.9859 H   0  0  0  0  0  0
+  -24.4027   13.4178   18.0734 H   0  0  0  0  0  0
+  -21.2466   14.6267   19.4293 H   0  0  0  0  0  0
+  -22.0003   15.9024   20.3867 H   0  0  0  0  0  0
+  -21.6592   14.3779   22.0556 H   0  0  0  0  0  0
+  -23.2743   13.8609   21.6143 H   0  0  0  0  0  0
+  -24.5759   16.0140   17.9276 H   0  0  0  0  0  0
+  -22.9082   17.7358   17.3620 H   0  0  0  0  0  0
+  -21.5794   16.8356   18.2566 H   0  0  0  0  0  0
+  -21.9251   14.8353   16.8271 H   0  0  0  0  0  0
+  -23.2324   15.7281   15.8868 H   0  0  0  0  0  0
+  -25.1670   12.1782   17.0893 H   0  0  0  0  0  0
+  -25.1461    7.9742   16.2684 H   0  0  0  0  0  0
+  -23.5196    7.6072   18.0109 H   0  0  0  0  0  0
+  -26.7077   11.1377   15.5728 H   0  0  0  0  0  0
+  -24.0456    8.9347   14.3731 H   0  0  0  0  0  0
+  -23.9422    8.1275   12.0499 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 32  1  0  0  0
+  1 33  1  0  0  0
+  1 34  1  0  0  0
+  2 20  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  5 11  1  0  0  0
+  5  6  2  0  0  0
+  6  7  1  0  0  0
+  6 15  1  0  0  0
+  7  8  1  0  0  0
+  7 35  1  0  0  0
+  8 31  1  0  0  0
+  8  9  1  0  0  0
+  8 12  1  0  0  0
+  9 10  1  0  0  0
+  9 36  1  0  0  0
+  9 37  1  0  0  0
+ 10 11  1  0  0  0
+ 10 38  1  0  0  0
+ 10 39  1  0  0  0
+ 12 14  1  0  0  0
+ 12 13  1  0  0  0
+ 12 40  1  0  0  0
+ 13 14  1  0  0  0
+ 13 41  1  0  0  0
+ 13 42  1  0  0  0
+ 14 43  1  0  0  0
+ 14 44  1  0  0  0
+ 15 20  2  0  0  0
+ 15 16  1  0  0  0
+ 16 17  2  0  0  0
+ 16 45  1  0  0  0
+ 17 18  1  0  0  0
+ 17 21  1  0  0  0
+ 18 19  2  0  0  0
+ 18 46  1  0  0  0
+ 19 20  1  0  0  0
+ 19 47  1  0  0  0
+ 21 22  1  0  0  0
+ 21 48  1  0  0  0
+ 22 27  1  0  0  0
+ 22 23  2  0  0  0
+ 23 24  1  0  0  0
+ 23 49  1  0  0  0
+ 24 25  2  0  0  0
+ 24 50  1  0  0  0
+ 25 26  1  0  0  0
+ 26 27  2  0  0  0
+ 26 30  1  0  0  0
+ 27 28  1  0  0  0
+ 28 29  3  0  0  0
+M  END
+> <s_m_entry_id>
+396
+
+> <s_m_entry_name>
+BCL6_lig_12b.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\selection\BCL6\original
+
+> <s_m_Source_File>
+BCL6_lig_12b.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+TzFbQ0gyXVtDSDJdW0NAQEhdKFtDSF0yW0NIMl1bQ0gyXTIpW05IXWMoYzEzKWM0YyhuKFtDSDNdKWMzPU8pW2NIXVtjSF1jKFtjSF00KVtOSF1jNVtjSF1bY0hdbmMoQ2wpYzVDI04=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.2778
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.2778
+
+> <r_epik_State_Penalty>
+  0.2702
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.27018
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+62.1635
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/BCL6/lig_12b.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_BCL6
+
+> <i_i_glide_lignum>
+15
+
+> <i_i_glide_rotatable_bonds>
+3
+
+> <r_i_docking_score>
+-5.62964757724372
+
+> <r_i_glide_ligand_efficiency>
+-0.187654919241457
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.583087464308137
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.27911726947307
+
+> <r_i_glide_gscore>
+-5.89984757724372
+
+> <r_i_glide_lipo>
+-2.16928746270313
+
+> <r_i_glide_hbond>
+-0.432330283087992
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-0.995393102668269
+
+> <r_i_glide_evdw>
+-33.213680267334
+
+> <r_i_glide_ecoul>
+-6.5065712928772
+
+> <r_i_glide_erotb>
+0.33383297851395
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+-44.1008948727295
+
+> <r_i_glide_energy>
+-39.7202515602112
+
+> <r_i_glide_einternal>
+8.01888275146484
+
+> <i_i_glide_confnum>
+19
+
+> <i_i_glide_posenum>
+74
+
+> <r_i_glide_eff_state_penalty>
+0.2702
+
+> <s_m_job_name>
+glide-dock_SP_BCL6_ligand1
+
+> <r_glide_shape_similarity>
+0.947432041168213
+
+> <s_m_subgroup_title>
+glide-dock_SP_BCL6_ligand1_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_BCL6_ligand1_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,254 @@
+/home/yujie/leadopt/data/result/selection/CDK9/lig_40.sdf:1
+                    3D
+ Schrodinger Suite 2021-2.
+ 50 53  0  0  1  0            999 V2000
+  -42.0531  -35.1026   -0.3851 C   0  0  0  0  0  0
+  -41.7353  -34.3977   -1.7223 C   0  0  0  0  0  0
+  -43.0121  -34.3011   -2.5787 C   0  0  0  0  0  0
+  -40.6453  -34.9865   -2.5183 N   0  0  0  0  0  0
+  -40.4312  -36.3717   -2.4243 C   0  0  0  0  0  0
+  -39.6035  -37.0286   -3.2387 C   0  0  0  0  0  0
+  -38.9089  -36.2529   -4.2282 C   0  0  0  0  0  0
+  -39.0967  -34.9307   -4.3344 C   0  0  0  0  0  0
+  -39.9955  -34.2173   -3.4459 C   0  0  0  0  0  0
+  -40.1656  -33.0067   -3.5668 O   0  0  0  0  0  0
+  -39.4299  -38.4745   -3.1713 C   0  0  0  0  0  0
+  -38.1441  -39.0134   -3.2834 C   0  0  0  0  0  0
+  -37.9865  -40.4054   -3.2579 C   0  0  0  0  0  0
+  -38.9920  -41.2935   -3.1490 N   0  0  0  0  0  0
+  -40.2184  -40.7345   -3.0555 C   0  0  0  0  0  0
+  -40.5249  -39.3531   -3.0524 C   0  0  0  0  0  0
+  -41.9413  -39.2310   -2.9632 C   0  0  0  0  0  0
+  -42.4435  -40.4973   -2.8782 C   0  0  0  0  0  0
+  -41.4076  -41.4016   -2.9212 N   0  0  0  0  0  0
+  -43.8641  -40.8829   -2.7470 C   0  0  0  0  0  0
+  -44.2782  -42.0662   -3.6206 C   0  0  0  0  0  0
+  -45.7916  -42.2431   -3.5703 C   0  0  0  0  0  0
+  -46.1865  -42.4976   -2.1854 N   0  3  0  0  0  0
+  -45.7783  -41.4381   -1.2511 C   0  0  0  0  0  0
+  -44.2752  -41.1751   -1.3110 C   0  0  0  0  0  0
+  -41.5290  -42.4032   -2.8388 H   0  0  0  0  0  0
+  -42.7815  -34.5043    0.1593 H   0  0  0  0  0  0
+  -41.1890  -35.1967    0.2654 H   0  0  0  0  0  0
+  -42.5113  -36.0840   -0.5078 H   0  0  0  0  0  0
+  -41.4506  -33.3804   -1.4496 H   0  0  0  0  0  0
+  -43.8224  -33.8424   -2.0127 H   0  0  0  0  0  0
+  -42.8613  -33.6853   -3.4664 H   0  0  0  0  0  0
+  -43.3484  -35.2853   -2.9073 H   0  0  0  0  0  0
+  -40.9904  -36.8988   -1.6722 H   0  0  0  0  0  0
+  -38.2294  -36.7428   -4.9103 H   0  0  0  0  0  0
+  -38.5634  -34.3793   -5.0935 H   0  0  0  0  0  0
+  -37.2766  -38.3755   -3.3780 H   0  0  0  0  0  0
+  -36.9962  -40.8273   -3.3353 H   0  0  0  0  0  0
+  -42.5021  -38.3075   -2.9579 H   0  0  0  0  0  0
+  -44.4457  -40.0194   -3.0787 H   0  0  0  0  0  0
+  -43.9959  -41.9018   -4.6561 H   0  0  0  0  0  0
+  -43.7691  -42.9795   -3.3045 H   0  0  0  0  0  0
+  -46.3044  -41.3564   -3.9490 H   0  0  0  0  0  0
+  -46.0991  -43.0848   -4.1914 H   0  0  0  0  0  0
+  -47.1884  -42.5906   -2.1534 H   0  0  0  0  0  0
+  -46.3382  -40.5234   -1.4582 H   0  0  0  0  0  0
+  -46.0539  -41.7641   -0.2557 H   0  0  0  0  0  0
+  -43.7236  -42.0347   -0.9253 H   0  0  0  0  0  0
+  -44.0315  -40.3342   -0.6584 H   0  0  0  0  0  0
+  -45.7515  -43.3556   -1.8861 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 27  1  0  0  0
+  1 28  1  0  0  0
+  1 29  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2 30  1  0  0  0
+  3 31  1  0  0  0
+  3 32  1  0  0  0
+  3 33  1  0  0  0
+  4  9  1  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5 34  1  0  0  0
+  6  7  1  0  0  0
+  6 11  1  0  0  0
+  7  8  2  0  0  0
+  7 35  1  0  0  0
+  8  9  1  0  0  0
+  8 36  1  0  0  0
+  9 10  2  0  0  0
+ 11 16  1  0  0  0
+ 11 12  2  0  0  0
+ 12 13  1  0  0  0
+ 12 37  1  0  0  0
+ 13 14  2  0  0  0
+ 13 38  1  0  0  0
+ 14 15  1  0  0  0
+ 15 19  1  0  0  0
+ 15 16  2  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 17 39  1  0  0  0
+ 18 19  1  0  0  0
+ 18 20  1  0  0  0
+ 19 26  1  0  0  0
+ 20 25  1  0  0  0
+ 20 21  1  0  0  0
+ 20 40  1  0  0  0
+ 21 22  1  0  0  0
+ 21 41  1  0  0  0
+ 21 42  1  0  0  0
+ 22 23  1  0  0  0
+ 22 43  1  0  0  0
+ 22 44  1  0  0  0
+ 23 24  1  0  0  0
+ 23 45  1  0  0  0
+ 23 50  1  0  0  0
+ 24 25  1  0  0  0
+ 24 46  1  0  0  0
+ 24 47  1  0  0  0
+ 25 48  1  0  0  0
+ 25 49  1  0  0  0
+M  CHG  1  23   1
+M  END
+> <s_m_entry_id>
+238
+
+> <s_m_entry_name>
+CDK9_lig_40.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\selection\selection\CDK9_pose
+
+> <s_m_Source_File>
+CDK9_lig_40.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIM11bQ0hdKFtDSDNdKW4xW2NIXWMoW2NIXVtjSF1jMT1PKS1jKFtjSF1bY0hdbjIpYyhjMjMpW2NIXWMoW25IXTMpW0NIXTRbQ0gyXVtDSDJdW05IXVtDSDJdW0NIMl00
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0017
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0006
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0011
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000598642
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+49.7318
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/CDK9/lig_40.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_CDK9
+
+> <i_i_glide_lignum>
+38
+
+> <i_i_glide_rotatable_bonds>
+3
+
+> <r_i_docking_score>
+-9.03723361216402
+
+> <r_i_glide_ligand_efficiency>
+-0.361489344486561
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.05700125431953
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.14209519012007
+
+> <r_i_glide_gscore>
+-9.03723361216402
+
+> <r_i_glide_lipo>
+-2.69101415594047
+
+> <r_i_glide_hbond>
+-0.52039351582162
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.65599844167215
+
+> <r_i_glide_evdw>
+-40.9540634155273
+
+> <r_i_glide_ecoul>
+-9.02996921539307
+
+> <r_i_glide_erotb>
+0.232371054355548
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+-67.8844769227925
+
+> <r_i_glide_energy>
+-49.9840326309204
+
+> <r_i_glide_einternal>
+1.54673326015472
+
+> <i_i_glide_confnum>
+7
+
+> <i_i_glide_posenum>
+394
+
+> <r_i_glide_eff_state_penalty>
+0
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_job_name>
+glide-dock_SP_all
+
+> <r_glide_shape_similarity>
+0.852876663208008
+
+> <s_m_subgroup_title>
+glide-dock_SP_all_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_all_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

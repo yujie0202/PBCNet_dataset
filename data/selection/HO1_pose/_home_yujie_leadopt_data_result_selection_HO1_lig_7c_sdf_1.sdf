@@ -1,0 +1,206 @@
+/home/yujie/leadopt/data/result/selection/HO1/lig_7c.sdf:1
+                    3D
+ Schrodinger Suite 2021-2.
+ 27 28  0  0  1  0            999 V2000
+  -26.5987   -8.3007    5.0132 O   0  0  0  0  0  0
+  -25.5211   -8.6777    5.4613 C   0  0  0  0  0  0
+  -24.2915   -8.4960    4.6504 C   0  0  0  0  0  0
+  -24.0306   -7.1053    4.6002 N   0  0  0  0  0  0
+  -24.2431   -6.2751    3.5553 C   0  0  0  0  0  0
+  -23.8606   -5.0474    3.9979 C   0  0  0  0  0  0
+  -23.4607   -5.1895    5.2967 N   0  3  0  0  0  0
+  -23.5561   -6.4557    5.6605 C   0  0  0  0  0  0
+  -25.3314   -9.1850    6.6766 N   0  0  0  0  0  0
+  -26.2686   -9.0197    7.6835 C   0  0  0  0  0  0
+  -26.8457   -7.7666    7.9042 C   0  0  0  0  0  0
+  -27.8615   -7.6547    8.8415 C   0  0  0  0  0  0
+  -28.6607   -5.9904    9.0931 Br  0  0  0  0  0  0
+  -28.2982   -8.7529    9.5788 C   0  0  0  0  0  0
+  -27.6918   -9.9938    9.3763 C   0  0  0  0  0  0
+  -26.6618  -10.1248    8.4392 C   0  0  0  0  0  0
+  -24.3643   -8.9153    3.6466 H   0  0  0  0  0  0
+  -23.4605   -8.8959    5.1943 H   0  0  0  0  0  0
+  -24.6452   -6.6073    2.6071 H   0  0  0  0  0  0
+  -23.8796   -4.0903    3.5087 H   0  0  0  0  0  0
+  -23.3154   -6.8662    6.6264 H   0  0  0  0  0  0
+  -24.4738   -9.6627    6.9031 H   0  0  0  0  0  0
+  -26.5455   -6.8974    7.3378 H   0  0  0  0  0  0
+  -29.1033   -8.6491   10.2920 H   0  0  0  0  0  0
+  -28.0345  -10.8617    9.9181 H   0  0  0  0  0  0
+  -26.2143  -11.0936    8.2674 H   0  0  0  0  0  0
+  -23.1470   -4.4388    5.8980 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  3  4  1  0  0  0
+  3 17  1  0  0  0
+  3 18  1  0  0  0
+  4  8  1  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5 19  1  0  0  0
+  6  7  1  0  0  0
+  6 20  1  0  0  0
+  7  8  2  0  0  0
+  7 27  1  0  0  0
+  8 21  1  0  0  0
+  9 10  1  0  0  0
+  9 22  1  0  0  0
+ 10 16  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+ 11 23  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 24  1  0  0  0
+ 15 16  2  0  0  0
+ 15 25  1  0  0  0
+ 16 26  1  0  0  0
+M  CHG  1   7   1
+M  END
+> <s_m_entry_id>
+323
+
+> <s_m_entry_name>
+HO1_lig_7c.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\selection\HO1\original_p
+
+> <s_m_Source_File>
+HO1_lig_7c.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFuW2NIXVtjSF1uMVtDSDJdQyg9TylbTkhdYzJbY0hdYyhCcilbY0hdW2NIXVtjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1671
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.1671
+
+> <r_epik_State_Penalty>
+  0.1565
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.156461
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+22.5053
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/HO1/lig_7c.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_HO1
+
+> <i_i_glide_lignum>
+15
+
+> <i_i_glide_rotatable_bonds>
+4
+
+> <r_i_docking_score>
+-5.62873217300594
+
+> <r_i_glide_ligand_efficiency>
+-0.351795760812871
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.886469767804564
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.49200789893264
+
+> <r_i_glide_gscore>
+-5.78523217300594
+
+> <r_i_glide_lipo>
+-2.01266346157237
+
+> <r_i_glide_hbond>
+0
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.61161446125402
+
+> <r_i_glide_evdw>
+-25.6172370910645
+
+> <r_i_glide_ecoul>
+-2.24941229820251
+
+> <r_i_glide_erotb>
+0.457319449104053
+
+> <r_i_glide_esite>
+0
+
+> <r_i_glide_emodel>
+2.34638179843483
+
+> <r_i_glide_energy>
+-27.866649389267
+
+> <r_i_glide_einternal>
+5.70911455154419
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_posenum>
+259
+
+> <r_i_glide_eff_state_penalty>
+0.1565
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_job_name>
+glide-dock_SP_all
+
+> <r_glide_shape_similarity>
+0.593435168266296
+
+> <s_m_subgroup_title>
+glide-dock_SP_all_lib1
+
+> <s_m_subgroupid>
+glide-dock_SP_all_lib1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

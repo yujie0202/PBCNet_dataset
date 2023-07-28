@@ -1,0 +1,255 @@
+/home/yujie/leadopt/data/result/selection/sEH/lig_8a.sdf:1
+                    3D
+ Schrodinger Suite 2021-2.
+ 51 54  0  0  1  0            999 V2000
+   -1.5176  -15.3995   25.6433 O   0  0  0  0  0  0
+   -1.1356  -14.9691   26.7246 C   0  0  0  0  0  0
+   -0.0482  -13.9399   26.7551 C   0  0  0  0  0  0
+    0.7694  -13.7465   25.6231 C   0  0  0  0  0  0
+    1.7254  -12.7246   25.5912 C   0  0  0  0  0  0
+    1.8730  -11.8968   26.7074 C   0  0  0  0  0  0
+    2.6944  -10.8136   26.9512 N   0  0  0  0  0  0
+    3.6551  -10.2351   26.0319 C   0  0  0  0  0  0
+    5.0749  -10.7538   26.1984 C   0  0  0  0  0  0
+    6.0813  -10.2374   25.3652 C   0  0  0  0  0  0
+    7.4014  -10.6915   25.4849 C   0  0  0  0  0  0
+    8.3591  -10.2136   24.6587 F   0  0  0  0  0  0
+    7.7264  -11.6646   26.4388 C   0  0  0  0  0  0
+    6.7327  -12.1834   27.2765 C   0  0  0  0  0  0
+    5.4110  -11.7336   27.1536 C   0  0  0  0  0  0
+    2.4740  -10.3696   28.2404 C   0  0  0  0  0  0
+    1.5021  -11.1196   28.8368 C   0  0  0  0  0  0
+    1.0897  -12.0842   27.8759 C   0  0  0  0  0  0
+    0.1183  -13.0992   27.8662 C   0  0  0  0  0  0
+   -1.6959  -15.3500   27.8809 N   0  0  0  0  0  0
+   -2.9302  -16.1330   27.9620 C   0  0  0  0  0  0
+   -2.7795  -17.6543   27.8820 C   0  0  0  0  0  0
+   -3.8385  -18.4859   27.4397 C   0  0  0  0  0  0
+   -5.0996  -17.9102   26.8132 C   0  0  0  0  0  0
+   -5.7330  -17.1571   27.6995 F   0  0  0  0  0  0
+   -4.8058  -17.1781   25.7446 F   0  0  0  0  0  0
+   -5.9282  -18.8634   26.4121 F   0  0  0  0  0  0
+   -3.7367  -19.8825   27.6132 C   0  0  0  0  0  0
+   -2.5871  -20.4591   28.1704 C   0  0  0  0  0  0
+   -2.5132  -21.8298   28.3949 N   0  0  0  0  0  0
+   -1.4997  -19.6436   28.4944 C   0  0  0  0  0  0
+   -1.5960  -18.2521   28.3528 C   0  0  0  0  0  0
+    0.6541  -14.3674   24.7471 H   0  0  0  0  0  0
+    2.3246  -12.5701   24.7078 H   0  0  0  0  0  0
+    3.3251  -10.4165   25.0087 H   0  0  0  0  0  0
+    3.6491   -9.1535   26.1688 H   0  0  0  0  0  0
+    5.8394   -9.5005   24.6117 H   0  0  0  0  0  0
+    8.7424  -12.0194   26.5218 H   0  0  0  0  0  0
+    6.9855  -12.9310   28.0159 H   0  0  0  0  0  0
+    4.6649  -12.1440   27.8225 H   0  0  0  0  0  0
+    3.0345   -9.5375   28.6397 H   0  0  0  0  0  0
+    1.1067  -11.0015   29.8361 H   0  0  0  0  0  0
+   -0.5148  -13.2058   28.7335 H   0  0  0  0  0  0
+   -1.3451  -14.9643   28.7584 H   0  0  0  0  0  0
+   -3.6288  -15.7572   27.2172 H   0  0  0  0  0  0
+   -3.3865  -15.8986   28.9249 H   0  0  0  0  0  0
+   -4.5530  -20.5284   27.3273 H   0  0  0  0  0  0
+   -1.6199  -22.2647   28.5702 H   0  0  0  0  0  0
+   -3.2311  -22.4418   28.0401 H   0  0  0  0  0  0
+   -0.5972  -20.0743   28.9067 H   0  0  0  0  0  0
+   -0.7681  -17.6415   28.6849 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2 20  1  0  0  0
+  3 19  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  4 33  1  0  0  0
+  5  6  2  0  0  0
+  5 34  1  0  0  0
+  6  7  1  0  0  0
+  6 18  1  0  0  0
+  7  8  1  0  0  0
+  7 16  1  0  0  0
+  8  9  1  0  0  0
+  8 35  1  0  0  0
+  8 36  1  0  0  0
+  9 15  1  0  0  0
+  9 10  2  0  0  0
+ 10 11  1  0  0  0
+ 10 37  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 13 14  1  0  0  0
+ 13 38  1  0  0  0
+ 14 15  2  0  0  0
+ 14 39  1  0  0  0
+ 15 40  1  0  0  0
+ 16 17  2  0  0  0
+ 16 41  1  0  0  0
+ 17 18  1  0  0  0
+ 17 42  1  0  0  0
+ 18 19  2  0  0  0
+ 19 43  1  0  0  0
+ 20 21  1  0  0  0
+ 20 44  1  0  0  0
+ 21 22  1  0  0  0
+ 21 45  1  0  0  0
+ 21 46  1  0  0  0
+ 22 32  1  0  0  0
+ 22 23  2  0  0  0
+ 23 24  1  0  0  0
+ 23 28  1  0  0  0
+ 24 25  1  0  0  0
+ 24 26  1  0  0  0
+ 24 27  1  0  0  0
+ 28 29  2  0  0  0
+ 28 47  1  0  0  0
+ 29 30  1  0  0  0
+ 29 31  1  0  0  0
+ 30 48  1  0  0  0
+ 30 49  1  0  0  0
+ 31 32  2  0  0  0
+ 31 50  1  0  0  0
+ 32 51  1  0  0  0
+M  END
+> <s_m_entry_id>
+74
+
+> <s_m_entry_name>
+sEH_lig_8a.1
+
+> <s_m_Source_Path>
+C:\Users\yujiethinkpad\Desktop\selection\selection\sEH_pose
+
+> <s_m_Source_File>
+sEH_lig_8a.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <i_lp_mmshare_version>
+51139
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdYyhbTkgyXSlbY0hdYyhDKEYpKEYpRiljMVtDSDJdW05IXUMoPU8pYyhbY0hdW2NIXTIpW2NIXWMoYzIzKVtjSF1bY0hdbjNbQ0gyXWM0W2NIXWMoRilbY0hdW2NIXVtjSF00
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waHQnLCAnMi4wJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+38.8451
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+/home/yujie/leadopt/data/result/selection/sEH/lig_8a.sdf:1-1
+
+> <s_i_glide_gridfile>
+glide-grid_sEH
+
+> <i_i_glide_lignum>
+25
+
+> <i_i_glide_rotatable_bonds>
+7
+
+> <r_i_docking_score>
+-11.9057359768549
+
+> <r_i_glide_ligand_efficiency>
+-0.372054249276716
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.18119861201762
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.66601882332334
+
+> <r_i_glide_gscore>
+-11.9057359768549
+
+> <r_i_glide_lipo>
+-4.71443307300889
+
+> <r_i_glide_hbond>
+-0.72
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.63615550316334
+
+> <r_i_glide_evdw>
+-49.3059959411621
+
+> <r_i_glide_ecoul>
+-11.8994989395142
+
+> <r_i_glide_erotb>
+0.615077237302536
+
+> <r_i_glide_esite>
+-0.2
+
+> <r_i_glide_emodel>
+-95.7373179327157
+
+> <r_i_glide_energy>
+-61.2054948806763
+
+> <r_i_glide_einternal>
+1.14587187767029
+
+> <i_i_glide_confnum>
+5
+
+> <i_i_glide_posenum>
+301
+
+> <r_i_glide_eff_state_penalty>
+0
+
+> <r_lp_tautomer_probability>
+1
+
+> <s_m_job_name>
+glide-dock_SP_all
+
+> <r_glide_shape_similarity>
+0.868667304515839
+
+> <s_m_subgroup_title>
+glide-dock_SP_all_pv1
+
+> <s_m_subgroupid>
+glide-dock_SP_all_pv1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
